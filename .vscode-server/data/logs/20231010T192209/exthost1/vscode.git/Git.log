@@ -1,0 +1,23 @@
+2023-10-10 19:22:17.132 [info] Log level: Info
+2023-10-10 19:22:17.132 [info] Validating found git in: "git"
+2023-10-10 19:22:17.132 [info] Using git "2.34.1" from "git"
+2023-10-10 19:22:17.132 [info] > git rev-parse --show-toplevel [15ms]
+2023-10-10 19:22:17.132 [info] > git rev-parse --git-dir --git-common-dir [19ms]
+2023-10-10 19:22:17.132 [info] Open repository: /home/tphilly
+2023-10-10 19:22:17.132 [info] > git check-ignore -v -z --stdin [556ms]
+2023-10-10 19:22:17.132 [info] > git config --get commit.template [2034ms]
+2023-10-10 19:22:17.216 [info] > git check-ignore -v -z --stdin [86ms]
+2023-10-10 19:22:17.255 [info] No remotes found in the git config file.
+2023-10-10 19:22:17.418 [info] > git show --textconv :Coursework/Block14/index.js [40ms]
+2023-10-10 19:22:17.421 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [167ms]
+2023-10-10 19:22:17.643 [info] > git ls-files --stage -- /home/tphilly/Coursework/Block14/index.js [235ms]
+2023-10-10 19:22:18.196 [info] > git status -z -uall [751ms] (cancelled)
+2023-10-10 19:22:18.452 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-10-10 19:22:18.486 [info] No remotes found in the git config file.
+2023-10-10 19:22:18.503 [info] > git config --get commit.template [37ms]
+2023-10-10 19:22:18.566 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [81ms]
+2023-10-10 19:22:18.717 [info] > git status -z -uall [131ms] (cancelled)
+2023-10-10 19:22:19.959 [info] > git config --get commit.template [1028ms]
+2023-10-10 19:22:20.076 [info] No remotes found in the git config file.
+2023-10-10 19:22:20.078 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-10-10 19:22:21.501 [info] > git status -z -uall [1400ms] (cancelled)

@@ -1,0 +1,27 @@
+2023-10-10 19:22:12.024 [info] Extension host with pid 20176 started
+2023-10-10 19:22:12.027 [error] Error: EEXIST: file already exists, open '/home/tphilly/.vscode-server/data/User/workspaceStorage/c8dea61d86bff5dca7ea980ccf1258e2/vscode.lock'
+2023-10-10 19:22:12.047 [info] Lock '/home/tphilly/.vscode-server/data/User/workspaceStorage/c8dea61d86bff5dca7ea980ccf1258e2/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-10-10 19:22:12.054 [info] Lock '/home/tphilly/.vscode-server/data/User/workspaceStorage/c8dea61d86bff5dca7ea980ccf1258e2/vscode.lock': The lockfile is scheduled to have been released.
+2023-10-10 19:22:12.054 [info] Lock '/home/tphilly/.vscode-server/data/User/workspaceStorage/c8dea61d86bff5dca7ea980ccf1258e2/vscode.lock': Deleting a stale lock.
+2023-10-10 19:22:12.079 [info] Lock '/home/tphilly/.vscode-server/data/User/workspaceStorage/c8dea61d86bff5dca7ea980ccf1258e2/vscode.lock': Lock acquired.
+2023-10-10 19:22:12.137 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-10 19:22:12.138 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-10-10 19:22:12.653 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-10-10 19:22:12.875 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-10-10 19:22:12.876 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-10-10 19:22:13.647 [info] Eager extensions activated
+2023-10-10 19:22:13.648 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-10 19:22:13.649 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-10 19:22:13.651 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2023-10-10 19:22:13.653 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2023-10-10 19:22:13.653 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-10-10 19:22:15.346 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: eamodio.gitlens
+2023-10-10 19:22:16.769 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2023-10-10 19:22:18.892 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-10-10 19:22:20.342 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10059
+2023-10-10 19:22:53.605 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-10-10 19:43:27.287 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-10-13 08:58:17.439 [error] Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)
+2023-10-13 09:28:07.391 [error] Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)

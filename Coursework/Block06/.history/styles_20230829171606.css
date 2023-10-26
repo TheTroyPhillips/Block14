@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+.box{
+    width: 30px;
+    height:150px; 
+    color: black; 
+    background-color: aqua;
+} 
+.Red{
+    background-color: red;
+}

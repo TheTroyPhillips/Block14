@@ -1,0 +1,23 @@
+h2 {
+    margin-top: ;
+}
+.Box{
+    width: 200px;
+    height:150px; 
+    color: black; 
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 50px;
+} 
+.Red{
+    background-color: red;
+}
+.Blue{
+    background-color: blue;
+}
+.Green{
+    background-color: green;
+}
+.Yellow{
+    background-color: yellow;
+}

@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+.Box{
+    width: 200px;
+    height:150px; 
+    color: black; 
+    display: inline-block;
+    margin-right: 200px;
+    margin: 100px;
+} 
+.Red{
+    background-color: red;
+}
+.Blue{
+    background-color: blue;
+}
+.Green

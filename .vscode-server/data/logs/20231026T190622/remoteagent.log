@@ -1,0 +1,26 @@
+2023-10-26 19:06:22.062 [info] 
+
+
+
+
+2023-10-26 19:06:22.079 [info] Extension host agent started.
+2023-10-26 19:06:22.311 [info] [127.0.0.1][10fc755c][ManagementConnection] New connection established.
+2023-10-26 19:06:22.527 [info] [127.0.0.1][9a9c8da1][ExtensionHostConnection] New connection established.
+2023-10-26 19:06:24.115 [info] [127.0.0.1][9a9c8da1][ExtensionHostConnection] <1480> Launched Extension Host Process.
+2023-10-26 19:06:27.748 [info] Getting Manifest... eamodio.gitlens
+2023-10-26 19:06:27.748 [info] Getting Manifest... ms-python.vscode-pylance
+2023-10-26 19:06:28.246 [info] Installing extension: ms-python.vscode-pylance
+2023-10-26 19:06:28.281 [info] Installing extension: eamodio.gitlens
+2023-10-26 19:06:29.398 [info] Getting Manifest... ms-python.python
+2023-10-26 19:06:29.957 [warning] Extension signature verification failed with error 'ENOENT': eamodio.gitlens
+2023-10-26 19:06:30.446 [info] Extracted extension to file:///home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1: eamodio.gitlens
+2023-10-26 19:06:30.464 [info] Renamed to /home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1
+2023-10-26 19:06:30.472 [info] Extracting extension completed. eamodio.gitlens
+2023-10-26 19:06:30.487 [info] Extension installed successfully: eamodio.gitlens
+2023-10-26 19:06:30.508 [info] Marked extension as uninstalled eamodio.gitlens-14.4.0
+2023-10-26 19:06:31.533 [warning] Extension signature verification failed with error 'ENOENT': ms-python.vscode-pylance
+2023-10-26 19:06:38.480 [info] Extracted extension to file:///home/tphilly/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.50: ms-python.vscode-pylance
+2023-10-26 19:06:38.521 [info] Renamed to /home/tphilly/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.50
+2023-10-26 19:06:38.527 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-10-26 19:06:38.537 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-10-26 19:06:38.556 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.10.40

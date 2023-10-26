@@ -1,0 +1,99 @@
+2023-10-10 19:22:09.442 [info] 
+
+
+
+
+2023-10-10 19:22:09.455 [info] Extension host agent started.
+2023-10-10 19:22:09.558 [info] [127.0.0.1][191d4492][ManagementConnection] New connection established.
+2023-10-10 19:22:09.945 [info] [127.0.0.1][bc060e20][ManagementConnection] New connection established.
+2023-10-10 19:22:10.377 [info] [127.0.0.1][92c97349][ExtensionHostConnection] New connection established.
+2023-10-10 19:22:10.552 [info] [127.0.0.1][e7da16e6][ExtensionHostConnection] New connection established.
+2023-10-10 19:22:11.073 [info] [127.0.0.1][92c97349][ExtensionHostConnection] <20176> Launched Extension Host Process.
+2023-10-10 19:22:11.085 [info] [127.0.0.1][e7da16e6][ExtensionHostConnection] <20177> Launched Extension Host Process.
+2023-10-10 19:22:16.034 [info] Getting Manifest... github.vscode-pull-request-github
+2023-10-10 19:22:16.304 [info] Installing extension: github.vscode-pull-request-github
+2023-10-10 19:22:16.540 [info] Getting Manifest... github.vscode-pull-request-github
+2023-10-10 19:22:16.766 [info] Extensions is already requested to install github.vscode-pull-request-github
+2023-10-10 19:22:18.600 [warning] Extension signature verification failed with error 'ENOENT': github.vscode-pull-request-github
+2023-10-10 19:22:18.772 [info] Extracted extension to file:///home/tphilly/.vscode-server/extensions/github.vscode-pull-request-github-0.74.0: github.vscode-pull-request-github
+2023-10-10 19:22:18.782 [info] Renamed to /home/tphilly/.vscode-server/extensions/github.vscode-pull-request-github-0.74.0
+2023-10-10 19:22:18.789 [info] Extracting extension completed. github.vscode-pull-request-github
+2023-10-10 19:22:18.802 [info] Extension installed successfully: github.vscode-pull-request-github
+2023-10-10 19:22:18.810 [info] Marked extension as uninstalled github.vscode-pull-request-github-0.72.0
+2023-10-10 19:22:20.616 [info] Downloaded extension to file:///home/tphilly/.vscode-server/data/CachedExtensionVSIXs/f0f4428f-66a6-420b-abf0-b1ad27cc98c5
+2023-10-10 19:22:20.626 [info] Installing extension: github.vscode-pull-request-github
+2023-10-10 19:22:20.626 [info] Installing the extension without checking dependencies and pack github.vscode-pull-request-github
+2023-10-10 19:22:20.646 [info] Deleted existing extension from disk github.vscode-pull-request-github /home/tphilly/.vscode-server/extensions/github.vscode-pull-request-github-0.74.0
+2023-10-10 19:22:20.760 [info] Extracted extension to file:///home/tphilly/.vscode-server/extensions/github.vscode-pull-request-github-0.74.0: github.vscode-pull-request-github
+2023-10-10 19:22:20.767 [info] Renamed to /home/tphilly/.vscode-server/extensions/github.vscode-pull-request-github-0.74.0
+2023-10-10 19:22:20.772 [info] Extracting extension completed. github.vscode-pull-request-github
+2023-10-10 19:22:20.790 [info] Extension installed successfully: github.vscode-pull-request-github
+2023-10-10 19:49:55.626 [info] [127.0.0.1][bc060e20][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-10 19:49:55.846 [info] [127.0.0.1][e7da16e6][ExtensionHostConnection] <20177> Extension Host Process exited with code: 0, signal: null.
+2023-10-10 22:44:23.652 [info] [127.0.0.1][92c97349][ExtensionHostConnection] The client has reconnected.
+2023-10-10 22:44:24.342 [info] [127.0.0.1][191d4492][ManagementConnection] The client has reconnected.
+2023-10-11 02:03:47.554 [info] [127.0.0.1][191d4492][ManagementConnection] The client has reconnected.
+2023-10-11 02:03:48.022 [info] [127.0.0.1][92c97349][ExtensionHostConnection] The client has reconnected.
+2023-10-11 03:51:38.096 [info] [127.0.0.1][191d4492][ManagementConnection] The client has reconnected.
+2023-10-11 03:51:38.431 [info] [127.0.0.1][92c97349][ExtensionHostConnection] The client has reconnected.
+2023-10-11 05:29:43.966 [info] [127.0.0.1][92c97349][ExtensionHostConnection] The client has reconnected.
+2023-10-11 05:29:44.145 [info] [127.0.0.1][191d4492][ManagementConnection] The client has reconnected.
+2023-10-11 06:51:04.331 [info] [127.0.0.1][191d4492][ManagementConnection] The client has reconnected.
+2023-10-11 06:51:04.354 [info] [127.0.0.1][92c97349][ExtensionHostConnection] The client has reconnected.
+2023-10-11 09:08:56.456 [info] [127.0.0.1][191d4492][ManagementConnection] The client has reconnected.
+2023-10-11 09:08:57.837 [info] [127.0.0.1][92c97349][ExtensionHostConnection] The client has reconnected.
+2023-10-11 12:20:48.313 [info] [127.0.0.1][92c97349][ExtensionHostConnection] The client has reconnected.
+2023-10-11 12:20:48.419 [info] [127.0.0.1][191d4492][ManagementConnection] The client has reconnected.
+2023-10-11 13:53:10.837 [info] [127.0.0.1][92c97349][ExtensionHostConnection] The client has reconnected.
+2023-10-11 13:53:10.964 [info] [127.0.0.1][191d4492][ManagementConnection] The client has reconnected.
+2023-10-11 19:23:49.891 [info] Getting Manifest... ms-python.vscode-pylance
+2023-10-11 19:23:50.279 [info] Installing extension: ms-python.vscode-pylance
+2023-10-11 19:23:51.285 [info] Getting Manifest... ms-python.python
+2023-10-11 19:23:54.353 [warning] Extension signature verification failed with error 'ENOENT': ms-python.vscode-pylance
+2023-10-11 19:23:59.996 [info] Extracted extension to file:///home/tphilly/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.20: ms-python.vscode-pylance
+2023-10-11 19:24:00.010 [info] Renamed to /home/tphilly/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.20
+2023-10-11 19:24:00.013 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-10-11 19:24:00.024 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-10-11 19:24:00.029 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.10.10
+2023-10-12 01:44:07.969 [warning] No ptyHost heartbeat after 6 seconds
+2023-10-12 02:29:31.723 [info] [127.0.0.1][191d4492][ManagementConnection] The client has reconnected.
+2023-10-12 02:29:32.214 [info] [127.0.0.1][92c97349][ExtensionHostConnection] The client has reconnected.
+2023-10-12 03:45:21.842 [info] [127.0.0.1][191d4492][ManagementConnection] The client has reconnected.
+2023-10-12 03:45:21.978 [info] [127.0.0.1][92c97349][ExtensionHostConnection] The client has reconnected.
+2023-10-12 05:01:11.350 [info] [127.0.0.1][191d4492][ManagementConnection] The client has reconnected.
+2023-10-12 05:01:12.748 [info] [127.0.0.1][92c97349][ExtensionHostConnection] The client has reconnected.
+2023-10-12 05:59:48.651 [info] [127.0.0.1][191d4492][ManagementConnection] The client has reconnected.
+2023-10-12 05:59:49.209 [info] [127.0.0.1][92c97349][ExtensionHostConnection] The client has reconnected.
+2023-10-12 07:15:39.860 [info] [127.0.0.1][191d4492][ManagementConnection] The client has reconnected.
+2023-10-12 07:15:40.759 [info] [127.0.0.1][92c97349][ExtensionHostConnection] The client has reconnected.
+2023-10-12 07:46:16.185 [warning] No ptyHost heartbeat after 6 seconds
+2023-10-12 08:33:17.360 [info] [127.0.0.1][191d4492][ManagementConnection] The client has reconnected.
+2023-10-12 08:33:27.700 [info] [127.0.0.1][92c97349][ExtensionHostConnection] The client has reconnected.
+2023-10-12 19:07:00.657 [info] [127.0.0.1][adbf511f][ManagementConnection] New connection established.
+2023-10-12 19:07:00.905 [info] [127.0.0.1][a6465114][ExtensionHostConnection] New connection established.
+2023-10-12 19:07:00.913 [info] [127.0.0.1][a6465114][ExtensionHostConnection] <245495> Launched Extension Host Process.
+2023-10-12 20:48:00.023 [warning] No ptyHost heartbeat after 6 seconds
+2023-10-12 21:33:25.679 [info] [127.0.0.1][adbf511f][ManagementConnection] The client has reconnected.
+2023-10-12 21:33:25.827 [info] [127.0.0.1][a6465114][ExtensionHostConnection] The client has reconnected.
+2023-10-12 21:33:26.690 [info] [127.0.0.1][191d4492][ManagementConnection] The client has reconnected.
+2023-10-12 21:33:26.847 [info] [127.0.0.1][92c97349][ExtensionHostConnection] The client has reconnected.
+2023-10-12 22:49:14.897 [info] [127.0.0.1][191d4492][ManagementConnection] The client has reconnected.
+2023-10-12 22:49:15.045 [info] [127.0.0.1][adbf511f][ManagementConnection] The client has reconnected.
+2023-10-12 22:49:15.317 [info] [127.0.0.1][a6465114][ExtensionHostConnection] The client has reconnected.
+2023-10-12 22:49:15.672 [info] [127.0.0.1][92c97349][ExtensionHostConnection] The client has reconnected.
+2023-10-12 23:23:51.658 [info] [127.0.0.1][a6465114][ExtensionHostConnection] The client has reconnected.
+2023-10-12 23:23:51.788 [info] [127.0.0.1][adbf511f][ManagementConnection] The client has reconnected.
+2023-10-12 23:23:51.918 [info] [127.0.0.1][92c97349][ExtensionHostConnection] The client has reconnected.
+2023-10-12 23:23:52.662 [info] [127.0.0.1][191d4492][ManagementConnection] The client has reconnected.
+2023-10-13 02:38:58.126 [info] [127.0.0.1][adbf511f][ManagementConnection] The client has reconnected.
+2023-10-13 02:38:58.739 [info] [127.0.0.1][191d4492][ManagementConnection] The client has reconnected.
+2023-10-13 02:38:59.515 [info] [127.0.0.1][92c97349][ExtensionHostConnection] The client has reconnected.
+2023-10-13 02:38:59.567 [info] [127.0.0.1][a6465114][ExtensionHostConnection] The client has reconnected.
+2023-10-13 06:01:03.654 [info] [127.0.0.1][a6465114][ExtensionHostConnection] The client has reconnected.
+2023-10-13 06:01:03.812 [info] [127.0.0.1][adbf511f][ManagementConnection] The client has reconnected.
+2023-10-13 06:01:06.827 [info] [127.0.0.1][92c97349][ExtensionHostConnection] The client has reconnected.
+2023-10-13 06:01:08.260 [info] [127.0.0.1][191d4492][ManagementConnection] The client has reconnected.
+2023-10-13 08:34:23.952 [info] [127.0.0.1][adbf511f][ManagementConnection] The client has reconnected.
+2023-10-13 08:34:24.132 [info] [127.0.0.1][a6465114][ExtensionHostConnection] The client has reconnected.
+2023-10-13 08:34:24.322 [info] [127.0.0.1][191d4492][ManagementConnection] The client has reconnected.
+2023-10-13 08:34:25.008 [info] [127.0.0.1][92c97349][ExtensionHostConnection] The client has reconnected.

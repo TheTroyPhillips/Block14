@@ -1,0 +1,686 @@
+2023-10-03 17:09:59.465 [info] 
+
+
+
+
+2023-10-03 17:09:59.476 [info] Extension host agent started.
+2023-10-03 17:09:59.683 [info] [127.0.0.1][86108b37][ManagementConnection] New connection established.
+2023-10-03 17:09:59.947 [info] [127.0.0.1][7b7cadc0][ExtensionHostConnection] New connection established.
+2023-10-03 17:10:01.199 [info] [127.0.0.1][7b7cadc0][ExtensionHostConnection] <1502> Launched Extension Host Process.
+2023-10-03 18:04:26.834 [info] [127.0.0.1][86108b37][ManagementConnection] The client has reconnected.
+2023-10-03 18:04:27.301 [info] [127.0.0.1][7b7cadc0][ExtensionHostConnection] The client has reconnected.
+2023-10-03 18:36:34.815 [info] [127.0.0.1][ff7475a5][ManagementConnection] New connection established.
+2023-10-03 18:36:35.813 [info] [127.0.0.1][5dda7524][ExtensionHostConnection] New connection established.
+2023-10-03 18:36:35.873 [info] [127.0.0.1][5dda7524][ExtensionHostConnection] <15885> Launched Extension Host Process.
+2023-10-03 18:54:38.280 [info] [127.0.0.1][bcf2134c][ManagementConnection] New connection established.
+2023-10-03 18:54:39.265 [info] [127.0.0.1][9c25a6e0][ExtensionHostConnection] New connection established.
+2023-10-03 18:54:39.284 [info] [127.0.0.1][9c25a6e0][ExtensionHostConnection] <22748> Launched Extension Host Process.
+2023-10-03 18:55:22.290 [info] [127.0.0.1][7ab572d8][ManagementConnection] New connection established.
+2023-10-03 18:55:22.764 [info] [127.0.0.1][e75d36ae][ExtensionHostConnection] New connection established.
+2023-10-03 18:55:22.771 [info] [127.0.0.1][e75d36ae][ExtensionHostConnection] <23255> Launched Extension Host Process.
+2023-10-03 18:55:55.715 [info] [127.0.0.1][7ab572d8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-03 18:55:55.717 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-03 18:55:55.720 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-03 18:55:55.720 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-03 18:55:55.720 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-03 18:55:55.721 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-03 18:55:55.721 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-10-03 18:55:55.721 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-10-03 18:55:55.721 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-10-03 18:56:00.784 [info] [127.0.0.1][e75d36ae][ExtensionHostConnection] <23255> Extension Host Process exited with code: 0, signal: null.
+2023-10-03 23:24:29.444 [info] [127.0.0.1][bcf2134c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-03 23:24:29.448 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-03 23:24:29.452 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-03 23:24:29.453 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-03 23:24:29.453 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-03 23:24:29.454 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-03 23:24:29.454 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-03 23:24:29.454 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-03 23:24:29.454 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-03 23:24:34.655 [info] [127.0.0.1][9c25a6e0][ExtensionHostConnection] <22748> Extension Host Process exited with code: 0, signal: null.
+2023-10-04 00:26:26.078 [warning] No ptyHost heartbeat after 6 seconds
+2023-10-04 00:29:10.838 [warning] No ptyHost heartbeat after 6 seconds
+2023-10-04 18:53:42.912 [info] [127.0.0.1][7b7cadc0][ExtensionHostConnection] The client has reconnected.
+2023-10-04 18:53:47.530 [info] [127.0.0.1][86108b37][ManagementConnection] The client has reconnected.
+2023-10-04 18:53:51.578 [info] Getting Manifest... ms-python.vscode-pylance
+2023-10-04 18:53:51.803 [info] Installing extension: ms-python.vscode-pylance
+2023-10-04 18:53:53.024 [info] Getting Manifest... ms-python.python
+2023-10-04 18:53:54.932 [warning] Extension signature verification failed with error 'ENOENT': ms-python.vscode-pylance
+2023-10-04 18:54:02.056 [info] Extracted extension to file:///home/tphilly/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.10: ms-python.vscode-pylance
+2023-10-04 18:54:02.073 [info] Renamed to /home/tphilly/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.10
+2023-10-04 18:54:02.076 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-10-04 18:54:02.088 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-10-04 18:54:02.093 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.9.30
+2023-10-04 18:58:48.268 [info] [127.0.0.1][5dda7524][ExtensionHostConnection] <15885> Extension Host Process exited with code: 0, signal: null.
+2023-10-04 19:07:26.006 [info] [127.0.0.1][ff7475a5][ManagementConnection] The client has reconnected.
+2023-10-04 19:07:29.547 [error] [127.0.0.1][5dda7524][ExtensionHostConnection] Unknown reconnection token (seen before).
+2023-10-04 19:07:29.783 [info] [127.0.0.1][13f26a34][ExtensionHostConnection] New connection established.
+2023-10-04 19:07:29.789 [info] [127.0.0.1][13f26a34][ExtensionHostConnection] <201612> Launched Extension Host Process.
+2023-10-05 03:31:12.415 [info] [127.0.0.1][13f26a34][ExtensionHostConnection] The client has reconnected.
+2023-10-05 03:31:13.301 [info] [127.0.0.1][ff7475a5][ManagementConnection] The client has reconnected.
+2023-10-05 03:31:13.574 [info] [127.0.0.1][7b7cadc0][ExtensionHostConnection] The client has reconnected.
+2023-10-05 03:31:13.736 [info] [127.0.0.1][86108b37][ManagementConnection] The client has reconnected.
+2023-10-05 04:40:29.261 [warning] No ptyHost heartbeat after 6 seconds
+2023-10-05 04:42:08.644 [warning] No ptyHost heartbeat after 6 seconds
+2023-10-05 11:35:15.259 [info] [127.0.0.1][13f26a34][ExtensionHostConnection] The client has reconnected.
+2023-10-05 11:35:15.499 [info] [127.0.0.1][86108b37][ManagementConnection] The client has reconnected.
+2023-10-05 11:35:15.741 [info] [127.0.0.1][ff7475a5][ManagementConnection] The client has reconnected.
+2023-10-05 11:35:16.003 [info] [127.0.0.1][7b7cadc0][ExtensionHostConnection] The client has reconnected.
+2023-10-05 11:38:18.136 [info] [127.0.0.1][80a8c786][ManagementConnection] New connection established.
+2023-10-05 11:38:18.339 [info] [127.0.0.1][d2872c75][ExtensionHostConnection] New connection established.
+2023-10-05 11:38:18.346 [info] [127.0.0.1][d2872c75][ExtensionHostConnection] <374795> Launched Extension Host Process.
+2023-10-05 11:49:56.285 [info] [127.0.0.1][80a8c786][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-05 11:49:56.287 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 11:49:56.289 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 11:49:56.289 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 11:49:56.289 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 11:49:56.289 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 11:49:56.289 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 11:49:56.289 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 11:49:56.290 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 11:49:56.290 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 11:49:56.290 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 11:49:56.290 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 11:49:57.537 [info] [127.0.0.1][9271a522][ManagementConnection] New connection established.
+2023-10-05 11:49:57.932 [info] [127.0.0.1][a2eea21d][ExtensionHostConnection] New connection established.
+2023-10-05 11:49:57.938 [info] [127.0.0.1][a2eea21d][ExtensionHostConnection] <377564> Launched Extension Host Process.
+2023-10-05 11:50:01.179 [info] [127.0.0.1][d2872c75][ExtensionHostConnection] <374795> Extension Host Process exited with code: 0, signal: null.
+2023-10-05 12:03:14.013 [info] [127.0.0.1][168c0987][ManagementConnection] New connection established.
+2023-10-05 12:03:14.473 [info] [127.0.0.1][0ed01362][ExtensionHostConnection] New connection established.
+2023-10-05 12:03:14.482 [info] [127.0.0.1][0ed01362][ExtensionHostConnection] <381195> Launched Extension Host Process.
+2023-10-05 12:03:37.272 [info] [127.0.0.1][168c0987][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-05 12:03:37.273 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 12:03:37.274 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 12:03:37.274 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 12:03:37.275 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 12:03:37.275 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 12:03:37.275 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 12:03:37.275 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-10-05 12:03:37.275 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-10-05 12:03:37.275 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-10-05 12:03:42.363 [info] [127.0.0.1][0ed01362][ExtensionHostConnection] <381195> Extension Host Process exited with code: 0, signal: null.
+2023-10-05 12:04:42.113 [info] [127.0.0.1][86108b37][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-05 12:04:42.115 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 12:04:42.116 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 12:04:42.116 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 12:04:42.116 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 12:04:42.116 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 12:04:42.116 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-10-05 12:04:42.117 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-10-05 12:04:42.118 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-10-05 12:04:47.344 [info] [127.0.0.1][7b7cadc0][ExtensionHostConnection] <1502> Extension Host Process exited with code: 0, signal: null.
+2023-10-05 12:05:00.979 [info] [127.0.0.1][a9e63cd7][ManagementConnection] New connection established.
+2023-10-05 12:05:01.372 [info] [127.0.0.1][712352ac][ExtensionHostConnection] New connection established.
+2023-10-05 12:05:01.395 [info] [127.0.0.1][712352ac][ExtensionHostConnection] <382131> Launched Extension Host Process.
+2023-10-05 12:05:16.470 [info] [127.0.0.1][a9e63cd7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-05 12:05:16.471 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 12:05:16.473 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 12:05:16.473 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 12:05:16.473 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 12:05:16.473 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 12:05:16.474 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 12:05:16.474 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-10-05 12:05:16.474 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-10-05 12:05:16.474 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-10-05 12:05:21.536 [info] [127.0.0.1][712352ac][ExtensionHostConnection] <382131> Extension Host Process exited with code: 0, signal: null.
+2023-10-05 12:05:36.399 [info] [127.0.0.1][cab48b56][ManagementConnection] New connection established.
+2023-10-05 12:05:36.786 [info] [127.0.0.1][f926222b][ExtensionHostConnection] New connection established.
+2023-10-05 12:05:36.792 [info] [127.0.0.1][f926222b][ExtensionHostConnection] <382534> Launched Extension Host Process.
+2023-10-05 12:10:50.840 [info] [127.0.0.1][cab48b56][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-05 12:10:50.841 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 12:10:50.842 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 12:10:50.842 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 12:10:50.842 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 12:10:50.842 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 12:10:50.842 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 12:10:50.842 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 12:10:50.842 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 12:10:50.843 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 12:10:55.924 [info] [127.0.0.1][f926222b][ExtensionHostConnection] <382534> Extension Host Process exited with code: 0, signal: null.
+2023-10-05 12:17:17.007 [info] [127.0.0.1][1c098111][ManagementConnection] New connection established.
+2023-10-05 12:17:17.415 [info] [127.0.0.1][158ae71f][ExtensionHostConnection] New connection established.
+2023-10-05 12:17:17.425 [info] [127.0.0.1][158ae71f][ExtensionHostConnection] <386759> Launched Extension Host Process.
+2023-10-05 13:28:43.688 [info] [127.0.0.1][9271a522][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-05 13:28:43.689 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 13:28:43.691 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 13:28:43.691 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 13:28:43.691 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 13:28:43.691 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 13:28:43.691 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 13:28:43.691 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 13:28:43.691 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 13:28:43.691 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 13:28:43.691 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 13:28:43.691 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 13:28:43.691 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 13:28:43.691 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 13:28:43.692 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 13:28:43.692 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 13:28:43.692 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 13:28:48.872 [info] [127.0.0.1][a2eea21d][ExtensionHostConnection] <377564> Extension Host Process exited with code: 0, signal: null.
+2023-10-05 18:40:28.933 [info] [127.0.0.1][1c098111][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-05 18:40:28.943 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 18:40:28.947 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 18:40:28.948 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 18:40:28.948 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 18:40:28.948 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 18:40:28.948 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 18:40:28.948 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 18:40:28.948 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 18:40:28.949 [error] Error: Throttler is disposed
+    at c.queue (/home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/tphilly/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 18:40:34.241 [info] [127.0.0.1][158ae71f][ExtensionHostConnection] <386759> Extension Host Process exited with code: 0, signal: null.
+2023-10-05 18:41:08.533 [info] [127.0.0.1][13d5fea9][ManagementConnection] New connection established.
+2023-10-05 18:41:09.454 [info] [127.0.0.1][bba90a9f][ExtensionHostConnection] New connection established.
+2023-10-05 18:41:09.546 [info] [127.0.0.1][bba90a9f][ExtensionHostConnection] <473954> Launched Extension Host Process.
+2023-10-05 18:41:13.166 [info] Getting Manifest... ms-python.python
+2023-10-05 18:41:13.167 [info] Getting Manifest... ms-vscode.live-server
+2023-10-05 18:41:13.366 [info] Installing extension: ms-vscode.live-server
+2023-10-05 18:41:13.632 [info] Installing extension: ms-python.python
+2023-10-05 18:41:14.471 [warning] Extension signature verification failed with error 'ENOENT': ms-vscode.live-server
+2023-10-05 18:41:14.537 [info] Extracted extension to file:///home/tphilly/.vscode-server/extensions/ms-vscode.live-server-0.4.11: ms-vscode.live-server
+2023-10-05 18:41:14.543 [info] Renamed to /home/tphilly/.vscode-server/extensions/ms-vscode.live-server-0.4.11
+2023-10-05 18:41:14.546 [info] Extracting extension completed. ms-vscode.live-server
+2023-10-05 18:41:14.555 [info] Extension installed successfully: ms-vscode.live-server
+2023-10-05 18:41:14.565 [info] Marked extension as uninstalled ms-vscode.live-server-0.4.9
+2023-10-05 18:41:15.700 [warning] Extension signature verification failed with error 'ENOENT': ms-python.python
+2023-10-05 18:41:18.892 [info] Extracted extension to file:///home/tphilly/.vscode-server/extensions/ms-python.python-2023.18.0: ms-python.python
+2023-10-05 18:41:18.914 [info] Renamed to /home/tphilly/.vscode-server/extensions/ms-python.python-2023.18.0
+2023-10-05 18:41:18.920 [info] Extracting extension completed. ms-python.python
+2023-10-05 18:41:18.928 [info] Extension installed successfully: ms-python.python
+2023-10-05 18:41:18.940 [info] Marked extension as uninstalled ms-python.python-2023.16.0
+2023-10-06 02:47:06.222 [warning] No ptyHost heartbeat after 6 seconds
+2023-10-06 02:48:43.373 [warning] No ptyHost heartbeat after 6 seconds
+2023-10-06 09:45:40.564 [info] [127.0.0.1][13f26a34][ExtensionHostConnection] The client has reconnected.
+2023-10-06 09:45:40.697 [info] [127.0.0.1][bba90a9f][ExtensionHostConnection] The client has reconnected.
+2023-10-06 09:45:41.348 [info] [127.0.0.1][ff7475a5][ManagementConnection] The client has reconnected.
+2023-10-06 09:45:41.851 [info] [127.0.0.1][13d5fea9][ManagementConnection] The client has reconnected.
+2023-10-06 22:09:43.937 [info] [127.0.0.1][bba90a9f][ExtensionHostConnection] The client has reconnected.
+2023-10-06 22:09:44.248 [info] [127.0.0.1][13f26a34][ExtensionHostConnection] The client has reconnected.
+2023-10-06 22:09:44.620 [info] [127.0.0.1][13d5fea9][ManagementConnection] The client has reconnected.
+2023-10-06 22:09:45.060 [info] [127.0.0.1][ff7475a5][ManagementConnection] The client has reconnected.

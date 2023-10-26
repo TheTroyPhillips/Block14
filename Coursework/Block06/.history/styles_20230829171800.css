@@ -1,0 +1,14 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+.Box{
+    width: 150px;
+    height:150px; 
+    color: black; 
+    display: inline-block;
+    margin-right: 100
+} 
+.Red{
+    background-color: red;
+}

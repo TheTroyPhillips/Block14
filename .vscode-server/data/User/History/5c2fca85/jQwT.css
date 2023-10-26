@@ -1,0 +1,20 @@
+.child{
+    width: 30%;
+    height: 150px;
+    border: 1px solid red;
+    display: inline-block;
+    margin: 15px;
+    background-color: cadetblue;
+}
+.childtwo{
+    width: 96.8%;
+    height: 300px;
+    border: 1px solid red;
+    display: inline-block;
+    margin: 15px;
+    margin-right: 20px;
+    background-color: cadetblue;    
+}
+.circle{
+    background-color: ;
+}

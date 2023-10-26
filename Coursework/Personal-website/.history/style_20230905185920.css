@@ -1,0 +1,30 @@
+header{
+    background-color: aqua;
+    padding: 2rem;
+    margin: 5px;
+    margin-right: 5px;
+    width: 96%; 
+}
+.myname{
+    float: left;
+    font-size: 2rem;
+}
+.pages{
+    float: right;
+    font-size: 2rem;
+}
+.pages a.active{
+    color: inherit;
+}
+.pages a{
+    color: inherit;
+}
+body{
+    background-color: darkcyan;
+}
+main{
+    text-align: center;
+    margin: 30%;
+}
+
+

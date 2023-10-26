@@ -1,0 +1,57 @@
+2023-10-23 23:30:16.243 [info] 
+
+
+
+
+2023-10-23 23:30:16.254 [info] Extension host agent started.
+2023-10-23 23:30:16.351 [info] Deleted uninstalled extension from disk eamodio.gitlens /home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.3.0
+2023-10-23 23:30:16.409 [info] [127.0.0.1][d2d7355a][ManagementConnection] New connection established.
+2023-10-23 23:30:16.632 [info] [127.0.0.1][0bb3afa5][ExtensionHostConnection] New connection established.
+2023-10-23 23:30:17.684 [info] [127.0.0.1][0bb3afa5][ExtensionHostConnection] <1539> Launched Extension Host Process.
+2023-10-23 23:30:20.785 [info] Getting Manifest... ms-python.vscode-pylance
+2023-10-23 23:30:21.041 [info] Installing extension: ms-python.vscode-pylance
+2023-10-23 23:30:21.978 [info] Getting Manifest... ms-python.python
+2023-10-23 23:30:24.080 [warning] Extension signature verification failed with error 'ENOENT': ms-python.vscode-pylance
+2023-10-23 23:30:29.240 [info] Extracted extension to file:///home/tphilly/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.40: ms-python.vscode-pylance
+2023-10-23 23:30:29.248 [info] Renamed to /home/tphilly/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.40
+2023-10-23 23:30:29.251 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-10-23 23:30:29.259 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-10-23 23:30:29.263 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.10.20
+2023-10-24 00:56:46.631 [info] [127.0.0.1][0bb3afa5][ExtensionHostConnection] The client has reconnected.
+2023-10-24 00:56:47.486 [info] [127.0.0.1][d2d7355a][ManagementConnection] The client has reconnected.
+2023-10-24 02:12:34.327 [info] [127.0.0.1][d2d7355a][ManagementConnection] The client has reconnected.
+2023-10-24 02:12:34.735 [info] [127.0.0.1][0bb3afa5][ExtensionHostConnection] The client has reconnected.
+2023-10-24 03:28:32.771 [info] [127.0.0.1][0bb3afa5][ExtensionHostConnection] The client has reconnected.
+2023-10-24 03:28:33.565 [info] [127.0.0.1][d2d7355a][ManagementConnection] The client has reconnected.
+2023-10-24 04:49:48.158 [info] [127.0.0.1][d2d7355a][ManagementConnection] The client has reconnected.
+2023-10-24 04:49:48.408 [info] [127.0.0.1][0bb3afa5][ExtensionHostConnection] The client has reconnected.
+2023-10-24 06:05:38.618 [info] [127.0.0.1][0bb3afa5][ExtensionHostConnection] The client has reconnected.
+2023-10-24 06:05:38.985 [info] [127.0.0.1][d2d7355a][ManagementConnection] The client has reconnected.
+2023-10-24 07:21:33.572 [info] [127.0.0.1][d2d7355a][ManagementConnection] The client has reconnected.
+2023-10-24 07:21:33.898 [info] [127.0.0.1][0bb3afa5][ExtensionHostConnection] The client has reconnected.
+2023-10-24 08:37:19.966 [info] [127.0.0.1][d2d7355a][ManagementConnection] The client has reconnected.
+2023-10-24 08:37:24.044 [info] [127.0.0.1][0bb3afa5][ExtensionHostConnection] The client has reconnected.
+2023-10-24 09:53:16.842 [info] [127.0.0.1][d2d7355a][ManagementConnection] The client has reconnected.
+2023-10-24 09:53:17.598 [info] [127.0.0.1][0bb3afa5][ExtensionHostConnection] The client has reconnected.
+2023-10-24 11:09:18.560 [info] [127.0.0.1][0bb3afa5][ExtensionHostConnection] The client has reconnected.
+2023-10-24 11:09:18.976 [info] [127.0.0.1][d2d7355a][ManagementConnection] The client has reconnected.
+2023-10-24 11:30:22.024 [info] Getting Manifest... github.vscode-pull-request-github
+2023-10-24 11:30:22.237 [info] Installing extension: github.vscode-pull-request-github
+2023-10-24 11:30:23.489 [warning] Extension signature verification failed with error 'ENOENT': github.vscode-pull-request-github
+2023-10-24 11:30:23.586 [info] Extracted extension to file:///home/tphilly/.vscode-server/extensions/github.vscode-pull-request-github-0.74.1: github.vscode-pull-request-github
+2023-10-24 11:30:23.596 [info] Renamed to /home/tphilly/.vscode-server/extensions/github.vscode-pull-request-github-0.74.1
+2023-10-24 11:30:23.601 [info] Extracting extension completed. github.vscode-pull-request-github
+2023-10-24 11:30:23.612 [info] Extension installed successfully: github.vscode-pull-request-github
+2023-10-24 11:30:23.618 [info] Marked extension as uninstalled github.vscode-pull-request-github-0.74.0
+2023-10-24 12:24:57.398 [info] [127.0.0.1][d2d7355a][ManagementConnection] The client has reconnected.
+2023-10-24 12:24:57.958 [info] [127.0.0.1][0bb3afa5][ExtensionHostConnection] The client has reconnected.
+2023-10-24 13:40:45.757 [info] [127.0.0.1][0bb3afa5][ExtensionHostConnection] The client has reconnected.
+2023-10-24 13:40:46.199 [info] [127.0.0.1][d2d7355a][ManagementConnection] The client has reconnected.
+2023-10-24 14:56:40.604 [info] [127.0.0.1][d2d7355a][ManagementConnection] The client has reconnected.
+2023-10-24 14:56:41.155 [info] [127.0.0.1][0bb3afa5][ExtensionHostConnection] The client has reconnected.
+2023-10-24 16:12:26.632 [info] [127.0.0.1][0bb3afa5][ExtensionHostConnection] The client has reconnected.
+2023-10-24 16:12:26.942 [info] [127.0.0.1][d2d7355a][ManagementConnection] The client has reconnected.
+2023-10-24 17:18:07.860 [info] [127.0.0.1][d2d7355a][ManagementConnection] The client has reconnected.
+2023-10-24 17:18:08.717 [info] [127.0.0.1][0bb3afa5][ExtensionHostConnection] The client has reconnected.
+2023-10-24 17:18:51.616 [info] [127.0.0.1][d2d7355a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-24 17:18:51.765 [info] [127.0.0.1][0bb3afa5][ExtensionHostConnection] <1539> Extension Host Process exited with code: 0, signal: null.

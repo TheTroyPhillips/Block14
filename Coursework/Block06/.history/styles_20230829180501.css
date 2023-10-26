@@ -1,0 +1,35 @@
+h2 {
+    margin-top: ;
+}
+body
+.Box{
+    width: 200px;
+    height:150px; 
+    color: black; 
+    display: inline-block;
+    margin-right: 130px;
+    margin-left: 50px;
+    padding: 5px;
+} 
+.Red{
+    background-color: red;
+}
+.Blue{
+    background-color: rgb(139, 139, 188);
+}
+.Green{
+    background-color: green;
+}
+.Yellow{
+    background-color: yellow;
+}
+.Dry{
+    background-color: antiquewhite;
+    width: 75%;
+    height:40px;
+}
+.Freezer{
+    background-color: bisque;
+    width: 75%;
+    height: 40px;
+}

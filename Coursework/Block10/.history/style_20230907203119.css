@@ -1,0 +1,11 @@
+.child{
+    width: 250px;
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-around;
+}
+.parent{
+    border: 1px solid green;
+    display: flex;
+    justify-content: space-around;
+}

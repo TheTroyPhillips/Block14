@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "GitHub Dark High Contrast",
+    "files.autoSave": "afterDelay",
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": 1,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}

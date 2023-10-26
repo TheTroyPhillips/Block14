@@ -1,0 +1,38 @@
+2023-10-26 19:06:26.292 [info] Log level: Info
+2023-10-26 19:06:26.292 [info] Validating found git in: "git"
+2023-10-26 19:06:26.292 [info] Using git "2.34.1" from "git"
+2023-10-26 19:06:26.292 [info] > git rev-parse --show-toplevel [39ms]
+2023-10-26 19:06:26.292 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-10-26 19:06:26.292 [info] Open repository: /home/tphilly
+2023-10-26 19:06:26.292 [info] > git rev-parse --show-toplevel [586ms]
+2023-10-26 19:06:26.292 [info] > git config --get commit.template [596ms]
+2023-10-26 19:06:26.411 [info] No remotes found in the git config file.
+2023-10-26 19:06:26.554 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [145ms]
+2023-10-26 19:06:27.029 [info] > git config --local branch.master.github-pr-owner-number [30ms]
+2023-10-26 19:06:27.057 [info] > git status -z -uall [498ms] (cancelled)
+2023-10-26 19:06:27.060 [info] > git config --get commit.template [13ms]
+2023-10-26 19:06:27.060 [info] > git config --get commit.template [17ms]
+2023-10-26 19:06:27.068 [info] No remotes found in the git config file.
+2023-10-26 19:06:27.073 [info] No remotes found in the git config file.
+2023-10-26 19:06:27.077 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-10-26 19:06:27.082 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [15ms]
+2023-10-26 19:06:27.431 [info] > git status -z -uall [349ms] (cancelled)
+2023-10-26 19:06:37.132 [info] > git show --textconv :Coursework/troys-puppy-bowl/index.html [32ms]
+2023-10-26 19:06:37.134 [info] > git ls-files --stage -- /home/tphilly/Coursework/troys-puppy-bowl/index.html [22ms]
+2023-10-26 19:06:37.190 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-26 19:06:46.321 [info] > git show --textconv :Coursework/troys-puppy-bowl/styles.css [8ms]
+2023-10-26 19:06:46.322 [info] > git ls-files --stage -- /home/tphilly/Coursework/troys-puppy-bowl/styles.css [2ms]
+2023-10-26 19:06:46.559 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-26 19:06:58.012 [info] > git show --textconv :Coursework/troys-puppy-bowl/script.js [11ms]
+2023-10-26 19:06:58.013 [info] > git ls-files --stage -- /home/tphilly/Coursework/troys-puppy-bowl/script.js [1ms]
+2023-10-26 19:06:58.256 [info] > git check-ignore -v -z --stdin [0ms]
+2023-10-26 19:07:03.721 [info] > git show --textconv :Coursework/troys-puppy-bowl/styles.css [9ms]
+2023-10-26 19:07:03.721 [info] > git ls-files --stage -- /home/tphilly/Coursework/troys-puppy-bowl/styles.css [1ms]
+2023-10-26 19:07:04.353 [info] > git show --textconv :Coursework/troys-puppy-bowl/index.html [8ms]
+2023-10-26 19:07:04.354 [info] > git ls-files --stage -- /home/tphilly/Coursework/troys-puppy-bowl/index.html [1ms]
+2023-10-26 19:11:27.001 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-10-26 19:11:27.009 [info] > git config --get commit.template [1ms]
+2023-10-26 19:11:27.015 [info] No remotes found in the git config file.
+2023-10-26 19:11:27.015 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-26 19:11:27.125 [info] > git status -z -uall [105ms] (cancelled)
+2023-10-26 19:11:50.128 [info] > git check-ignore -v -z --stdin [1ms]

@@ -1,0 +1,54 @@
+.child{
+    width: 30%;
+    height: 150px;
+    border: 1px solid red;
+    display: inline-block;
+    margin: 15px;
+    background-color: cadetblue;
+}
+.childtwo{
+    width: 96.8%;
+    height: 300px;
+    border: 1px solid red;
+    display: inline-block;
+    margin: 15px;
+    margin-right: 20px;
+    background-color: cadetblue;    
+}
+.circle{
+    background-color: slateblue;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: 145px;
+    left: 30px;
+}
+.circleb{
+    background-color: slateblue;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: 14px;
+    left: 30px;
+}
+.circlec{
+    background-color: slateblue;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: 45px;
+    left: 130px;
+}
+.circled{
+    background-color: slateblue;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: 145px;
+    left: 530px;
+}
+'

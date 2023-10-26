@@ -1,0 +1,39 @@
+header{
+    margin-right: 5px;
+    width: 100%; 
+    color: aquamarine;
+}
+.myname{
+    float: left;
+    font-size: 2rem;
+}
+.pages{
+    float: right;
+    font-size: 2rem;
+}
+.pages a.active{
+    color: inherit;
+}
+.pages a{
+    color: inherit;
+}
+body{
+    background-color: darkcyan;
+}
+main{
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 1.8rem;
+}
+p{
+    text-align: center;
+    font-size: 3rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 130px;
+}
+.pa{
+    text-align: left;
+}
+
+

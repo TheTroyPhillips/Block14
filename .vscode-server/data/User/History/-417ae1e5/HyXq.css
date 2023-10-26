@@ -1,0 +1,81 @@
+.child{
+    width: 100%;
+    height: 60px;
+    border: 1px solid blue;
+    display: inline-block;
+    box-sizing: border-box;
+    background-color: aqua;
+    padding: 10px;
+}
+.childb{
+    width: 600px;
+    height: 600px;
+    border: 1px solid blue;
+    display: inline-block;
+    margin-top: 1px;
+    border-left: 15%;
+}
+.myname{
+    float: left;
+    font-size: 2rem;
+}
+.pages{
+    float: right;
+    font-size: 2rem;
+}
+.pages a.active{
+    color: inherit;
+}
+.pages a{
+    color: inherit;
+}
+body{
+    background-color: bisque;
+}
+main{
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 1.8rem;
+}
+p{
+    text-align: center;
+    font-size: 2.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 130px;
+}
+.pa{
+    margin: 10px;
+}
+h2{
+    font-size: 3rem;
+}
+.childc{
+    width: 70%;
+    height: 600px;
+    border: 1px solid blue;
+    margin-left: 15%;
+}
+.two{
+    font-size: 2.2rem;
+}
+.extra{
+    font-size: 1.8rem;
+    margin-top: 10px;
+    text-align: left;
+}
+img{
+    width: 300px;
+}
+.childb1{
+    width: 600px;
+    height: 600px;
+    border: 1px solid blue;
+    display: inline-block;
+    border-left: 15%;
+    margin-bottom: 100px;
+}
+.parentone{
+    margin-top: 10px;
+
+}

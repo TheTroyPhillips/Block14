@@ -1,0 +1,11 @@
+h1{
+    display: inline-block;
+}
+.myname{
+    text-align: left;
+}
+.pages{
+    text-align: right;
+    margin-left: 44%;
+    
+}

@@ -1,0 +1,14 @@
+2023-10-23 23:30:20.044 [info] Looking for git repository
+2023-10-23 23:30:20.044 [info] Found 0 repositories during activation
+2023-10-23 23:30:20.044 [info] Git repository found, initializing review manager and pr tree view.
+2023-10-23 23:30:20.047 [info] Registering git provider
+2023-10-23 23:30:20.047 [info] Review> Validate state in progress
+2023-10-23 23:30:20.047 [info] Review> Validating state...
+2023-10-23 23:30:20.094 [info] Found GitHub remote for folder /home/tphilly/Coursework/Unit2.PartyLogs.Starter
+2023-10-23 23:30:20.096 [info] Trying to use globalState for assignableUsers.
+2023-10-23 23:30:20.127 [info] GlobalState does not exist for assignableUsers.
+2023-10-23 23:30:20.132 [info] Repo state for file:///home/tphilly/Coursework/Unit2.PartyLogs.Starter changed.
+2023-10-23 23:30:20.132 [info] Repo file:///home/tphilly/Coursework/Unit2.PartyLogs.Starter has already been setup.
+2023-10-23 23:30:20.132 [info] Review> No matching pull request metadata found locally for current branch main
+2023-10-23 23:30:20.132 [info] Review> no matching pull request metadata found for current branch main
+2023-10-23 23:30:20.133 [info] Review> No matching pull request metadata found on GitHub for current branch main

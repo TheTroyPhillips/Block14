@@ -1,0 +1,24 @@
+2023-10-10 19:22:14.741 [info] Log level: Info
+2023-10-10 19:22:14.741 [info] Validating found git in: "git"
+2023-10-10 19:22:14.741 [info] Using git "2.34.1" from "git"
+2023-10-10 19:22:14.741 [info] > git rev-parse --show-toplevel [13ms]
+2023-10-10 19:22:14.741 [info] > git rev-parse --git-dir --git-common-dir [22ms]
+2023-10-10 19:22:14.741 [info] Open repository: /home/tphilly
+2023-10-10 19:22:14.817 [info] > git config --get commit.template [45ms]
+2023-10-10 19:22:16.222 [info] > git rev-parse --show-toplevel [1425ms]
+2023-10-10 19:22:16.278 [info] No remotes found in the git config file.
+2023-10-10 19:22:16.858 [info] > git rev-parse --show-toplevel [492ms]
+2023-10-10 19:22:16.859 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [583ms]
+2023-10-10 19:22:17.134 [info] > git check-ignore -v -z --stdin [176ms]
+2023-10-10 19:22:17.136 [info] > git show --textconv :Coursework/js-demo-loops/index.js [142ms]
+2023-10-10 19:22:17.152 [info] > git ls-files --stage -- /home/tphilly/Coursework/js-demo-loops/index.js [121ms]
+2023-10-10 19:22:17.731 [info] > git status -z -uall [830ms] (cancelled)
+2023-10-10 19:22:17.907 [info] > git config --local branch.master.github-pr-owner-number [21ms]
+2023-10-10 19:22:17.988 [info] > git config --get commit.template [36ms]
+2023-10-10 19:22:18.028 [info] No remotes found in the git config file.
+2023-10-10 19:22:18.034 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2023-10-10 19:22:18.248 [info] > git status -z -uall [189ms] (cancelled)
+2023-10-10 19:22:19.781 [info] > git config --get commit.template [93ms]
+2023-10-10 19:22:19.796 [info] No remotes found in the git config file.
+2023-10-10 19:22:19.797 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-10 19:22:21.330 [info] > git status -z -uall [1523ms] (cancelled)

@@ -1,0 +1,24 @@
+header{
+    background-color: aqua;
+    padding: 2rem;
+    w
+}
+.myname{
+    float: left;
+    font-size: 2rem;
+}
+.pages{
+    float: right;
+    font-size: 2rem;
+    text-decoration: underline;
+}
+.pages a.active{
+    color: inherit;
+}
+.pages a{
+    color: inherit;
+}
+body{
+    background-color: darkcyan;
+}
+

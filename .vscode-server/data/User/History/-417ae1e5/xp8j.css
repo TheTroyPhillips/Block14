@@ -1,0 +1,22 @@
+.child{
+    width: 100%;
+    height: 60px;
+    border: 1px solid blue;
+    display: inline-block;
+    box-sizing: border-box;
+    background-color: aqua;
+}
+.myname{
+    float: left;
+    font-size: 2rem;
+}
+.pages{
+    float: right;
+    font-size: 2rem;
+}
+.pages a.active{
+    color: inherit;
+}
+.pages a{
+    color: inherit;
+}

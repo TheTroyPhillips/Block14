@@ -1,0 +1,8 @@
+.child{
+    width: 30%;
+    height: 150px;
+    border: 1px solid red;
+    display: inline-block;
+    margin: 20px;
+    background-color: cadetblue;
+}

@@ -1,0 +1,22 @@
+2023-10-17 20:18:59.781 [info] Log level: Info
+2023-10-17 20:18:59.781 [info] Validating found git in: "git"
+2023-10-17 20:18:59.781 [info] Using git "2.34.1" from "git"
+2023-10-17 20:18:59.781 [info] > git rev-parse --show-toplevel [8ms]
+2023-10-17 20:18:59.781 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2023-10-17 20:18:59.781 [info] Open repository: /home/tphilly
+2023-10-17 20:18:59.782 [info] > git config --get commit.template [11ms]
+2023-10-17 20:18:59.791 [info] No remotes found in the git config file.
+2023-10-17 20:18:59.792 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-17 20:19:01.094 [info] > git status -z -uall [1294ms] (cancelled)
+2023-10-17 20:19:01.295 [info] > git config --local branch.master.github-pr-owner-number [31ms]
+2023-10-17 20:19:01.318 [info] > git config --get commit.template [13ms]
+2023-10-17 20:19:01.325 [info] No remotes found in the git config file.
+2023-10-17 20:19:01.333 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2023-10-17 20:19:01.446 [info] > git status -z -uall [108ms] (cancelled)
+2023-10-17 20:19:02.489 [info] > git config --get commit.template [25ms]
+2023-10-17 20:19:02.504 [info] No remotes found in the git config file.
+2023-10-17 20:19:02.504 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-17 20:19:02.714 [info] > git status -z -uall [196ms] (cancelled)
+2023-10-17 20:19:34.411 [info] > git show --textconv :Coursework/Block21-Workshop/index.js [15ms]
+2023-10-17 20:19:34.411 [info] > git ls-files --stage -- /home/tphilly/Coursework/Block21-Workshop/index.js [8ms]
+2023-10-17 20:19:34.451 [info] > git check-ignore -v -z --stdin [0ms]

@@ -1,0 +1,30 @@
+2023-10-12 19:07:02.773 [info] Log level: Info
+2023-10-12 19:07:02.773 [info] Validating found git in: "git"
+2023-10-12 19:07:02.773 [info] Using git "2.34.1" from "git"
+2023-10-12 19:07:02.773 [info] > git rev-parse --show-toplevel [8ms]
+2023-10-12 19:07:02.774 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-10-12 19:07:02.787 [info] Open repository: /home/tphilly
+2023-10-12 19:07:02.803 [info] > git config --get commit.template [2ms]
+2023-10-12 19:07:02.815 [info] No remotes found in the git config file.
+2023-10-12 19:07:02.819 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-10-12 19:07:03.888 [info] > git status -z -uall [1050ms] (cancelled)
+2023-10-12 19:07:04.293 [info] > git check-ignore -v -z --stdin [32ms]
+2023-10-12 19:07:04.507 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-10-12 19:07:04.552 [info] > git config --get commit.template [37ms]
+2023-10-12 19:07:04.560 [info] No remotes found in the git config file.
+2023-10-12 19:07:04.577 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [17ms]
+2023-10-12 19:07:04.706 [info] > git status -z -uall [115ms] (cancelled)
+2023-10-12 19:07:05.657 [info] > git config --get commit.template [822ms]
+2023-10-12 19:07:05.685 [info] No remotes found in the git config file.
+2023-10-12 19:07:05.691 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2023-10-12 19:07:05.935 [info] > git status -z -uall [219ms] (cancelled)
+2023-10-12 19:07:39.432 [info] > git show --textconv :Coursework/dom-demo/index.html [32ms]
+2023-10-12 19:07:39.434 [info] > git ls-files --stage -- /home/tphilly/Coursework/dom-demo/index.html [19ms]
+2023-10-12 19:08:39.007 [info] > git show --textconv :Coursework/dom-demo/script.js [13ms]
+2023-10-12 19:08:39.008 [info] > git ls-files --stage -- /home/tphilly/Coursework/dom-demo/script.js [4ms]
+2023-10-12 19:08:57.105 [info] > git show --textconv :Coursework/dom-demo/index.html [8ms]
+2023-10-12 19:08:57.106 [info] > git ls-files --stage -- /home/tphilly/Coursework/dom-demo/index.html [2ms]
+2023-10-12 19:09:30.091 [info] > git show --textconv :Coursework/dom-demo/script.js [8ms]
+2023-10-12 19:09:30.093 [info] > git ls-files --stage -- /home/tphilly/Coursework/dom-demo/script.js [3ms]
+2023-10-12 19:09:39.838 [info] > git show --textconv :Coursework/dom-demo/index.html [9ms]
+2023-10-12 19:09:39.839 [info] > git ls-files --stage -- /home/tphilly/Coursework/dom-demo/index.html [2ms]

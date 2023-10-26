@@ -1,0 +1,21 @@
+2023-10-17 20:18:56.743 [info] 
+
+
+
+
+2023-10-17 20:18:56.758 [info] Extension host agent started.
+2023-10-17 20:18:56.877 [info] Deleted uninstalled extension from disk github.vscode-pull-request-github /home/tphilly/.vscode-server/extensions/github.vscode-pull-request-github-0.72.0
+2023-10-17 20:18:56.878 [info] Deleted uninstalled extension from disk ms-python.vscode-pylance /home/tphilly/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.10
+2023-10-17 20:18:56.883 [info] [127.0.0.1][599ea8d6][ManagementConnection] New connection established.
+2023-10-17 20:18:57.102 [info] [127.0.0.1][a5b03bed][ExtensionHostConnection] New connection established.
+2023-10-17 20:18:58.093 [info] [127.0.0.1][a5b03bed][ExtensionHostConnection] <1491> Launched Extension Host Process.
+2023-10-17 20:19:01.738 [info] Getting Manifest... eamodio.gitlens
+2023-10-17 20:19:02.116 [info] Installing extension: eamodio.gitlens
+2023-10-17 20:19:03.276 [warning] Extension signature verification failed with error 'ENOENT': eamodio.gitlens
+2023-10-17 20:19:03.713 [info] Extracted extension to file:///home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.0: eamodio.gitlens
+2023-10-17 20:19:03.742 [info] Renamed to /home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.0
+2023-10-17 20:19:03.750 [info] Extracting extension completed. eamodio.gitlens
+2023-10-17 20:19:03.763 [info] Extension installed successfully: eamodio.gitlens
+2023-10-17 20:19:03.816 [info] Marked extension as uninstalled eamodio.gitlens-14.3.0
+2023-10-17 21:39:18.011 [info] [127.0.0.1][599ea8d6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-17 21:39:18.252 [info] [127.0.0.1][a5b03bed][ExtensionHostConnection] <1491> Extension Host Process exited with code: 0, signal: null.
