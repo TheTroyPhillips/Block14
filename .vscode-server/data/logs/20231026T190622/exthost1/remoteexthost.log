@@ -16,3 +16,4 @@
 2023-10-26 19:06:46.081 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
 2023-10-26 19:06:57.794 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
 2023-10-26 19:11:27.278 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-10-26 19:12:27.674 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10003
