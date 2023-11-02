@@ -111,3 +111,27 @@ warning: adding embedded git repository: Coursework/Unit2.PartyLogs.Starter
 2023-10-26 19:13:54.668 [info] No remotes found in the git config file.
 2023-10-26 19:13:54.669 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
 2023-10-26 19:13:54.751 [info] > git status -z -uall [73ms]
+2023-10-26 19:13:57.066 [info] > git add -A -- . [105ms]
+2023-10-26 19:13:57.118 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [43ms]
+2023-10-26 19:13:57.133 [info] > git config --get commit.template [2ms]
+2023-10-26 19:13:57.150 [info] > git config --get commit.template [2ms]
+2023-10-26 19:13:57.165 [info] No remotes found in the git config file.
+2023-10-26 19:13:57.166 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-26 19:13:57.255 [info] > git status -z -uall [80ms]
+2023-10-26 19:13:57.268 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-10-26 19:13:57.284 [info] No remotes found in the git config file.
+2023-10-26 19:13:57.285 [info] > git config --get commit.template [8ms]
+2023-10-26 19:13:57.285 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-26 19:13:57.374 [info] > git status -z -uall [82ms] (cancelled)
+2023-10-26 19:13:57.375 [info] > git config --get commit.template [2ms]
+2023-10-26 19:13:57.384 [info] No remotes found in the git config file.
+2023-10-26 19:13:57.385 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-26 19:13:57.492 [info] > git status -z -uall [94ms]
+2023-10-26 19:13:59.762 [info] > git config --get commit.template [1ms]
+2023-10-26 19:13:59.770 [info] No remotes found in the git config file.
+2023-10-26 19:13:59.770 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-26 19:13:59.856 [info] > git status -z -uall [79ms]
+2023-10-26 19:14:04.870 [info] No remotes found in the git config file.
+2023-10-26 19:14:04.870 [info] > git config --get commit.template [5ms]
+2023-10-26 19:14:04.871 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-26 19:14:04.952 [info] > git status -z -uall [75ms]
