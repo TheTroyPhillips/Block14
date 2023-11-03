@@ -1,0 +1,42 @@
+2023-11-02 19:40:42.330 [info] Log level: Info
+2023-11-02 19:40:42.330 [info] Validating found git in: "git"
+2023-11-02 19:40:42.330 [info] Using git "2.34.1" from "git"
+2023-11-02 19:40:42.330 [info] > git rev-parse --show-toplevel [3ms]
+2023-11-02 19:40:42.330 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-11-02 19:40:42.330 [info] Open repository: /home/tphilly
+2023-11-02 19:40:42.330 [info] > git rev-parse --show-toplevel [5ms]
+2023-11-02 19:40:42.330 [info] > git config --get commit.template [9ms]
+2023-11-02 19:40:42.330 [info] > git rev-parse --show-toplevel [11ms]
+2023-11-02 19:40:42.331 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2023-11-02 19:40:42.825 [info] > git check-ignore -v -z --stdin [12ms]
+2023-11-02 19:40:43.948 [info] > git status -z -uall [1610ms] (cancelled)
+2023-11-02 19:40:44.817 [info] > git config --local branch.master.github-pr-owner-number [136ms]
+2023-11-02 19:40:44.854 [info] > git config --get commit.template [24ms]
+2023-11-02 19:40:44.863 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-02 19:40:45.030 [info] > git status -z -uall [161ms] (cancelled)
+2023-11-02 19:40:46.619 [info] > git config --get commit.template [126ms]
+2023-11-02 19:40:46.693 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [43ms]
+2023-11-02 19:40:48.463 [info] > git status -z -uall [1756ms] (cancelled)
+2023-11-02 19:48:23.093 [info] > git show --textconv :Coursework/vite-demo/package.json [41ms]
+2023-11-02 19:48:23.112 [info] > git ls-files --stage -- /home/tphilly/Coursework/vite-demo/package.json [52ms]
+2023-11-02 19:48:27.464 [info] > git show --textconv :Coursework/vite-demo/index.html [13ms]
+2023-11-02 19:48:27.471 [info] > git ls-files --stage -- /home/tphilly/Coursework/vite-demo/index.html [7ms]
+2023-11-02 19:48:42.524 [info] > git check-ignore -v -z --stdin [6ms]
+2023-11-02 19:48:47.973 [info] > git show --textconv :Coursework/vite-demo/src/main.jsx [23ms]
+2023-11-02 19:48:47.980 [info] > git ls-files --stage -- /home/tphilly/Coursework/vite-demo/src/main.jsx [9ms]
+2023-11-02 19:48:52.186 [info] > git show --textconv :Coursework/vite-demo/src/App.jsx [12ms]
+2023-11-02 19:48:52.189 [info] > git ls-files --stage -- /home/tphilly/Coursework/vite-demo/src/App.jsx [4ms]
+2023-11-02 19:48:54.017 [info] > git show --textconv :Coursework/vite-demo/src/main.jsx [10ms]
+2023-11-02 19:48:54.019 [info] > git ls-files --stage -- /home/tphilly/Coursework/vite-demo/src/main.jsx [3ms]
+2023-11-02 19:50:04.389 [info] > git show --textconv :Coursework/vite-demo/src/index.css [18ms]
+2023-11-02 19:50:04.395 [info] > git ls-files --stage -- /home/tphilly/Coursework/vite-demo/src/index.css [8ms]
+2023-11-02 19:50:21.663 [info] > git show --textconv :Coursework/vite-demo/src/App.jsx [11ms]
+2023-11-02 19:50:21.665 [info] > git ls-files --stage -- /home/tphilly/Coursework/vite-demo/src/App.jsx [4ms]
+2023-11-02 19:52:22.302 [info] > git check-ignore -v -z --stdin [5ms]
+2023-11-02 19:52:37.043 [info] > git check-ignore -v -z --stdin [7ms]
+2023-11-02 19:56:33.869 [info] > git show --textconv :Coursework/vite-demo/src/data.js [14ms]
+2023-11-02 19:56:33.871 [info] > git ls-files --stage -- /home/tphilly/Coursework/vite-demo/src/data.js [4ms]
+2023-11-02 19:56:34.122 [info] > git check-ignore -v -z --stdin [6ms]
+2023-11-02 19:57:52.104 [info] > git show --textconv :Coursework/vite-demo/src/App.jsx [10ms]
+2023-11-02 19:57:52.107 [info] > git ls-files --stage -- /home/tphilly/Coursework/vite-demo/src/App.jsx [3ms]
+2023-11-02 20:17:13.127 [info] > git check-ignore -v -z --stdin [17ms]

@@ -1,0 +1,13 @@
+2023-10-31 17:06:58.068 [info] Looking for git repository
+2023-10-31 17:06:58.068 [info] Found 0 repositories during activation
+2023-10-31 17:06:58.068 [info] Git repository found, initializing review manager and pr tree view.
+2023-10-31 17:06:58.072 [info] Registering git provider
+2023-10-31 17:06:58.072 [info] Review> Validate state in progress
+2023-10-31 17:06:58.072 [info] Review> Validating state...
+2023-10-31 17:06:58.073 [warning] No remotes found. The following remotes are missing: origin, upstream
+2023-10-31 17:06:58.073 [info] No GitHub remotes found for folder /home/tphilly
+2023-10-31 17:06:58.267 [info] Review> No matching pull request metadata found locally for current branch master
+2023-10-31 17:06:58.267 [info] Review> no matching pull request metadata found for current branch master
+2023-10-31 17:06:58.268 [info] Review> No matching pull request metadata found on GitHub for current branch master
+2023-10-31 17:06:59.044 [info] Repo state for file:///home/tphilly changed.
+2023-10-31 17:06:59.044 [info] Repo file:///home/tphilly has already been setup.

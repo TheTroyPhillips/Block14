@@ -1,0 +1,29 @@
+2023-10-26 19:18:00.155 [info] Log level: Info
+2023-10-26 19:18:00.155 [info] Validating found git in: "git"
+2023-10-26 19:18:00.155 [info] Using git "2.34.1" from "git"
+2023-10-26 19:18:00.155 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-26 19:18:00.155 [info] > git rev-parse --git-dir --git-common-dir [451ms]
+2023-10-26 19:18:00.155 [info] Open repository: /home/tphilly/Coursework/troys-puppy-bowl/troyspuppybowl
+2023-10-26 19:18:00.372 [info] > git config --get commit.template [263ms]
+2023-10-26 19:18:00.387 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-10-26 19:18:00.396 [info] > git status -z -uall [3ms]
+2023-10-26 19:18:00.438 [info] > git config --get commit.template [11ms]
+2023-10-26 19:18:00.451 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-10-26 19:18:00.463 [info] > git status -z -uall [1ms]
+2023-10-26 19:18:00.681 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-26 19:18:00.977 [info] > git config --local branch.main.github-pr-owner-number [8ms]
+2023-10-26 19:18:00.990 [info] > git config --get commit.template [3ms]
+2023-10-26 19:18:01.054 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [49ms]
+2023-10-26 19:18:01.071 [info] > git status -z -uall [6ms]
+2023-10-26 19:23:00.956 [info] > git config --local branch.main.github-pr-owner-number [1ms]
+2023-10-26 19:23:00.972 [info] > git config --get commit.template [7ms]
+2023-10-26 19:23:00.973 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-10-26 19:23:00.983 [info] > git status -z -uall [2ms]
+2023-10-26 19:27:33.623 [info] > git clone https://github.com/Troy-Phillips-Puppy-Bowl/puppy-bowl.git /home/tphilly/Coursework/puppy-bowl --progress [639ms]
+2023-10-26 19:27:33.623 [info] Cloning into '/home/tphilly/Coursework/puppy-bowl'...
+remote: Enumerating objects: 10, done.        
+remote: Counting objects:  10% (1/10)        remote: Counting objects:  20% (2/10)        remote: Counting objects:  30% (3/10)        remote: Counting objects:  40% (4/10)        remote: Counting objects:  50% (5/10)        remote: Counting objects:  60% (6/10)        remote: Counting objects:  70% (7/10)        remote: Counting objects:  80% (8/10)        remote: Counting objects:  90% (9/10)        remote: Counting objects: 100% (10/10)        remote: Counting objects: 100% (10/10), done.        
+remote: Compressing objects:  14% (1/7)        remote: Compressing objects:  28% (2/7)        remote: Compressing objects:  42% (3/7)        remote: Compressing objects:  57% (4/7)        remote: Compressing objects:  71% (5/7)        remote: Compressing objects:  85% (6/7)        remote: Compressing objects: 100% (7/7)        remote: Compressing objects: 100% (7/7), done.        
+Receiving objects:  10% (1/10)Receiving objects:  20% (2/10)Receiving objects:  30% (3/10)Receiving objects:  40% (4/10)Receiving objects:  50% (5/10)Receiving objects:  60% (6/10)Receiving objects:  70% (7/10)Receiving objects:  80% (8/10)Receiving objects:  90% (9/10)Receiving objects: 100% (10/10)Receiving objects: 100% (10/10), done.
+Resolving deltas:   0% (0/2)Resolving deltas:  50% (1/2)Resolving deltas: 100% (2/2)Resolving deltas: 100% (2/2), done.
+remote: Total 10 (delta 2), reused 0 (delta 0), pack-reused 0        

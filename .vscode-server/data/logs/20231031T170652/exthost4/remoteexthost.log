@@ -1,0 +1,49 @@
+2023-11-01 21:54:33.610 [info] Extension host with pid 1159166 started
+2023-11-01 21:54:33.655 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-01 21:54:33.656 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-11-01 21:54:33.769 [info] Lock '/home/tphilly/.vscode-server/data/User/workspaceStorage/7c0662639945a62378ba314487ceadac/vscode.lock': Lock acquired.
+2023-11-01 21:54:34.386 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-01 21:54:34.404 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-01 21:54:34.404 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-01 21:54:34.595 [info] Eager extensions activated
+2023-11-01 21:54:34.596 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-01 21:54:34.596 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-01 21:54:34.596 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2023-11-01 21:54:34.596 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2023-11-01 21:54:34.597 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-11-01 21:54:34.988 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: eamodio.gitlens
+2023-11-01 21:54:35.494 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2023-11-01 22:00:31.213 [warning] TextEditor is closed/disposed
+2023-11-01 22:00:31.273 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-11-01 22:02:30.562 [warning] TextEditor is closed/disposed
+2023-11-01 22:08:06.942 [info] ExtensionService#_doActivateExtension ms-vscode.live-server, startup: false, activationEvent: 'onCommand:livePreview.start.preview.atFile'
+2023-11-01 22:08:08.894 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2023-11-01 22:51:56.270 [error] [vscode.typescript-language-features] provider FAILED
+2023-11-01 22:51:56.270 [error] Error: <semantic> TypeScript Server Error (5.2.2)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at getChildListThatStartsWithOpenerToken (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/node_modules/typescript/lib/tsserver.js:166944:9)
+    at getArgumentOrParameterListAndIndex (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/node_modules/typescript/lib/tsserver.js:166728:20)
+    at getArgumentOrParameterListInfo (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/node_modules/typescript/lib/tsserver.js:166711:16)
+    at getImmediatelyContainingArgumentInfo (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/node_modules/typescript/lib/tsserver.js:166738:18)
+    at getImmediatelyContainingArgumentOrContextualParameterInfo (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/node_modules/typescript/lib/tsserver.js:166796:70)
+    at getContainingArgumentInfo (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/node_modules/typescript/lib/tsserver.js:166934:26)
+    at Object.getSignatureHelpItems (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/node_modules/typescript/lib/tsserver.js:166608:24)
+    at Object.getSignatureHelpItems2 [as getSignatureHelpItems] (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/node_modules/typescript/lib/tsserver.js:144261:37)
+    at IpcIOSession.getSignatureHelpItems (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/node_modules/typescript/lib/tsserver.js:184209:52)
+    at signatureHelp (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/node_modules/typescript/lib/tsserver.js:182485:43)
+    at /home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/node_modules/typescript/lib/tsserver.js:184838:69
+    at IpcIOSession.executeWithRequestId (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/node_modules/typescript/lib/tsserver.js:184830:14)
+    at IpcIOSession.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/node_modules/typescript/lib/tsserver.js:184838:29)
+    at IpcIOSession.onMessage (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/node_modules/typescript/lib/tsserver.js:184880:51)
+    at process.<anonymous> (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/node_modules/typescript/lib/tsserver.js:186461:14)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+	at n.create (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/typescript-language-features/dist/extension.js:2:868799)
+	at g.w (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/typescript-language-features/dist/extension.js:2:864123)
+	at g.u (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/typescript-language-features/dist/extension.js:2:863206)
+	at ChildProcess.<anonymous> (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/typescript-language-features/dist/extension.js:2:862838)
+	at ChildProcess.emit (node:events:513:28)
+	at emit (node:internal/child_process:937:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
