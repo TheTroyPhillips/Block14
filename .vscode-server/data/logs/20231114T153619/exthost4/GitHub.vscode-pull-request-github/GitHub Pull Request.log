@@ -12,3 +12,9 @@
 2023-11-14 15:44:15.107 [info] Repo file:///home/tphilly has already been setup.
 2023-11-14 15:44:31.588 [info] Review> No matching pull request metadata found locally for current branch master
 2023-11-14 15:44:32.966 [info] Review> No matching pull request metadata found on GitHub for current branch master
+2023-11-14 15:55:10.943 [info] Review> Validate state in progress
+2023-11-14 15:55:10.944 [info] Review> Validating state...
+2023-11-14 15:55:11.893 [info] Found GitHub remote for folder /home/tphilly
+2023-11-14 15:55:11.895 [info] Using in-memory cached assignable users.
+2023-11-14 15:55:12.286 [info] Review> No matching pull request metadata found locally for current branch master
+2023-11-14 15:55:12.704 [info] Review> No matching pull request metadata found on GitHub for current branch master

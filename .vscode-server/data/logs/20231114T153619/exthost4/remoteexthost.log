@@ -20,3 +20,35 @@
 2023-11-14 15:46:34.324 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
 2023-11-14 15:49:14.679 [warning] [Decorations] CAPPING events from decorations provider vscode.git 19682
 2023-11-14 15:54:15.389 [warning] [Decorations] CAPPING events from decorations provider vscode.git 19682
+2023-11-14 15:55:10.912 [warning] [Decorations] CAPPING events from decorations provider vscode.git 19689
+2023-11-14 16:02:03.013 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/tphilly/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-14 16:02:04.015 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/tphilly/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-14 16:02:25.659 [warning] TextEditor is closed/disposed
+2023-11-14 16:02:26.172 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/tphilly/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-14 16:02:27.173 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/tphilly/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-14 16:02:38.269 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/tphilly/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-14 16:02:39.271 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/tphilly/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-14 16:03:59.491 [warning] TextEditor is closed/disposed
+2023-11-14 16:04:23.551 [warning] TextEditor is closed/disposed
+2023-11-14 16:09:50.228 [warning] TextEditor is closed/disposed
+2023-11-14 16:10:16.362 [warning] TextEditor is closed/disposed
+2023-11-14 16:11:34.073 [warning] TextEditor is closed/disposed
+2023-11-14 16:12:29.768 [warning] TextEditor is closed/disposed
