@@ -1,0 +1,440 @@
+2023-11-06 23:14:54.919 [info] Extension host with pid 20695 started
+2023-11-06 23:14:54.939 [info] Lock '/home/tphilly/.vscode-server/data/User/workspaceStorage/c46afb2a00897d6fb848ebdfcb757faa/vscode.lock': Lock acquired.
+2023-11-06 23:14:55.093 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-06 23:14:55.152 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-06 23:14:55.152 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-06 23:14:55.380 [info] Eager extensions activated
+2023-11-06 23:14:55.380 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-06 23:14:55.380 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-06 23:14:55.381 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2023-11-06 23:14:55.381 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2023-11-06 23:14:55.381 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-11-06 23:14:55.774 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: eamodio.gitlens
+2023-11-06 23:14:56.172 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2023-11-06 23:14:58.946 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-11-06 23:14:58.946 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-06 23:15:00.737 [warning] TextEditor is closed/disposed
+2023-11-06 23:15:00.870 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-11-06 23:15:01.585 [warning] TextEditor is closed/disposed
+2023-11-06 23:15:01.660 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-11-06 23:15:02.310 [warning] TextEditor is closed/disposed
+2023-11-06 23:15:03.091 [warning] TextEditor is closed/disposed
+2023-11-06 23:15:09.473 [warning] TextEditor is closed/disposed
+2023-11-06 23:19:21.779 [warning] TextEditor is closed/disposed
+2023-11-06 23:19:24.890 [warning] TextEditor is closed/disposed
+2023-11-06 23:19:26.785 [info] ExtensionService#_doActivateExtension ms-vscode.live-server, startup: false, activationEvent: 'onCommand:livePreview.start.preview.atFile'
+2023-11-06 23:19:28.780 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2023-11-06 23:33:57.232 [warning] TextEditor is closed/disposed
+2023-11-06 23:44:06.105 [warning] TextEditor is closed/disposed
+2023-11-06 23:44:09.951 [warning] TextEditor is closed/disposed
+2023-11-06 23:45:38.196 [warning] TextEditor is closed/disposed
+2023-11-06 23:46:22.628 [warning] TextEditor is closed/disposed
+2023-11-06 23:47:07.761 [warning] TextEditor is closed/disposed
+2023-11-06 23:47:08.145 [warning] TextEditor is closed/disposed
+2023-11-06 23:47:10.006 [warning] TextEditor is closed/disposed
+2023-11-06 23:48:21.404 [warning] TextEditor is closed/disposed
+2023-11-08 13:52:18.751 [info] Extension host terminating: renderer disconnected for too long (2)
+2023-11-08 13:52:19.092 [info] Lock '/home/tphilly/.vscode-server/data/User/workspaceStorage/c46afb2a00897d6fb848ebdfcb757faa/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-11-08 13:52:19.616 [warning] Canceled
+2023-11-08 13:52:19.622 [error] Canceled: Canceled
+	at Object.I [as $4] (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:7611)
+	at s.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:8031)
+	at o.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:1513)
+	at l (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:9801)
+	at j.a (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:6594)
+	at j.h (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:90:19695)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7) setContext undefined
+2023-11-08 13:52:19.622 [error] Canceled: Canceled
+	at Object.I [as $4] (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:7611)
+	at s.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:8031)
+	at o.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:1513)
+	at l (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:9801)
+	at j.a (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:6594)
+	at j.h (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:90:19695)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7) setContext undefined
+2023-11-08 13:52:19.622 [error] Canceled: Canceled
+	at Object.I [as $4] (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:7611)
+	at s.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:8031)
+	at o.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:1513)
+	at l (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:9801)
+	at j.a (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:6594)
+	at j.h (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:90:19695)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7) setContext undefined
+2023-11-08 13:52:19.624 [error] Canceled: Canceled
+	at new m (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:57216)
+	at i.U (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:8315)
+	at n.g (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83747)
+	at n.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at b.registerCommand.description (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:82506)
+	at n.h (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:84283)
+	at n.g (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83278)
+	at n.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at Object.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:21282)
+	at s.D [as value] (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/main.js:2:1312800)
+	at c.z (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.A (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/main.js:2:1328588)
+	at /home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/main.js:2:1333429
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/main.js:2:1333415)
+	at w.<anonymous> (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:122:3521)
+	at w.dispose (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:122:3618)
+	at w.<anonymous> (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/main.js:2:1314812)
+	at w.dispose (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:122:3618)
+	at o (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at s.cb (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:9846)
+	at /home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7796
+	at Array.map (<anonymous>)
+	at s.Y (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7784)
+	at s.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:8054)
+	at o.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:1513)
+	at l (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:9801)
+	at j.a (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:6594)
+	at j.h (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:90:19695)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7) setContext undefined
+2023-11-08 13:52:19.624 [error] Canceled: Canceled
+	at new m (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:57216)
+	at i.U (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:8315)
+	at n.g (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83747)
+	at n.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at b.registerCommand.description (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:82506)
+	at n.h (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:84283)
+	at n.g (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83278)
+	at n.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at Object.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:21282)
+	at set b [as b] (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/github/dist/extension.js:2:714415)
+	at /home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/github/dist/extension.js:2:715056
+	at s.value (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/main.js:2:1402040)
+	at c.z (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.A (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/main.js:2:1328588)
+	at /home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/main.js:2:1333429
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/main.js:2:1333415)
+	at w.<anonymous> (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:122:3521)
+	at w.dispose (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:122:3618)
+	at w.<anonymous> (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/main.js:2:1314812)
+	at w.dispose (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:122:3618)
+	at o (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at s.cb (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:9846)
+	at /home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7796
+	at Array.map (<anonymous>)
+	at s.Y (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7784)
+	at s.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:8054)
+	at o.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:1513)
+	at l (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:9801)
+	at j.a (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:6594)
+	at j.h (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:90:19695)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7) setContext undefined
+2023-11-08 13:52:19.625 [error] Canceled: Canceled
+	at new m (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:57216)
+	at i.U (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:8315)
+	at n.g (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83747)
+	at n.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at b.registerCommand.description (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:82506)
+	at n.h (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:84283)
+	at n.g (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83278)
+	at n.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at Object.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:21282)
+	at e (/home/tphilly/.vscode-server/extensions/github.vscode-pull-request-github-0.76.0/dist/extension.js:1852:1467)
+	at Object.n [as setContext] (/home/tphilly/.vscode-server/extensions/github.vscode-pull-request-github-0.76.0/dist/extension.js:1852:1582)
+	at Zc.updateActiveReviewCount (/home/tphilly/.vscode-server/extensions/github.vscode-pull-request-github-0.76.0/dist/extension.js:1905:22816)
+	at Zc.removeRepo (/home/tphilly/.vscode-server/extensions/github.vscode-pull-request-github-0.76.0/dist/extension.js:1905:23943)
+	at s.value (/home/tphilly/.vscode-server/extensions/github.vscode-pull-request-github-0.76.0/dist/extension.js:2016:4130)
+	at c.z (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.A (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at s.value (/home/tphilly/.vscode-server/extensions/github.vscode-pull-request-github-0.76.0/dist/extension.js:1820:462233)
+	at c.z (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at /home/tphilly/.vscode-server/extensions/github.vscode-pull-request-github-0.76.0/dist/extension.js:1905:27657
+	at s.value (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/main.js:2:1402040)
+	at c.z (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.A (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/main.js:2:1328588)
+	at /home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/main.js:2:1333429
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/main.js:2:1333415)
+	at w.<anonymous> (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:122:3521)
+	at w.dispose (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:122:3618)
+	at w.<anonymous> (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/main.js:2:1314812)
+	at w.dispose (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:122:3618)
+	at o (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at s.cb (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:9846)
+	at /home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7796
+	at Array.map (<anonymous>)
+	at s.Y (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7784)
+	at s.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:8054)
+	at o.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:1513)
+	at l (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:9801)
+	at j.a (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:6594)
+	at j.h (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:90:19695)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7) setContext undefined
+2023-11-08 13:52:19.625 [error] Canceled: Canceled
+	at new m (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:57216)
+	at i.U (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:8315)
+	at n.g (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83747)
+	at n.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at b.registerCommand.description (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:82506)
+	at n.h (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:84283)
+	at n.g (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83278)
+	at n.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at Object.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:21282)
+	at w (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:1065459)
+	at l (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:1070087)
+	at ActionRunners._updateContextKeys (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:38822)
+	at s (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:37241)
+	at RegisteredActionRunner.unregister (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:37385)
+	at RegisteredActionRunner.dispose (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:36048)
+	at ActionRunners.dispose (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:36827)
+	at /home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:763974
+	at Array.forEach (<anonymous>)
+	at Object.dispose (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:763959)
+	at o (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at s.cb (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:9846)
+	at /home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7796
+	at Array.map (<anonymous>)
+	at s.Y (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7784)
+	at s.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:8054)
+	at o.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:1513)
+	at l (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:9801)
+	at j.a (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:6594)
+	at j.h (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:90:19695)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7) setContext undefined
+2023-11-08 13:52:19.625 [error] Canceled: Canceled
+	at new m (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:57216)
+	at i.U (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:8315)
+	at n.g (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83747)
+	at n.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at b.registerCommand.description (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:82506)
+	at n.h (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:84283)
+	at n.g (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83278)
+	at n.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at Object.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:21282)
+	at w (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:1065459)
+	at l (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:1070087)
+	at ActionRunners._updateContextKeys (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:38822)
+	at s (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:37241)
+	at RegisteredActionRunner.unregister (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:37385)
+	at RegisteredActionRunner.dispose (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:36048)
+	at ActionRunners.dispose (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:36827)
+	at /home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:763974
+	at Array.forEach (<anonymous>)
+	at Object.dispose (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:763959)
+	at o (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at s.cb (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:9846)
+	at /home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7796
+	at Array.map (<anonymous>)
+	at s.Y (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7784)
+	at s.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:8054)
+	at o.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:1513)
+	at l (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:9801)
+	at j.a (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:6594)
+	at j.h (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:90:19695)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7) setContext undefined
+2023-11-08 13:52:19.626 [error] Canceled: Canceled
+	at new m (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:57216)
+	at i.U (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:8315)
+	at n.g (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83747)
+	at n.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at b.registerCommand.description (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:82506)
+	at n.h (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:84283)
+	at n.g (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83278)
+	at n.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at Object.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:21282)
+	at w (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:1065459)
+	at l (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:1070087)
+	at ActionRunners._updateContextKeys (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:38822)
+	at s (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:37241)
+	at RegisteredActionRunner.unregister (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:37385)
+	at RegisteredActionRunner.dispose (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:36048)
+	at Object.dispose (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:37482)
+	at o (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at s.cb (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:9846)
+	at /home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7796
+	at Array.map (<anonymous>)
+	at s.Y (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7784)
+	at s.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:8054)
+	at o.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:1513)
+	at l (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:9801)
+	at j.a (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:6594)
+	at j.h (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:90:19695)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7) setContext undefined
+2023-11-08 13:52:19.626 [error] Canceled: Canceled
+	at new m (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:57216)
+	at i.U (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:8315)
+	at n.g (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83747)
+	at n.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at b.registerCommand.description (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:82506)
+	at n.h (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:84283)
+	at n.g (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83278)
+	at n.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at Object.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:21282)
+	at w (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:1065459)
+	at l (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:1070087)
+	at ActionRunners._updateContextKeys (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:38822)
+	at s (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:37241)
+	at RegisteredActionRunner.unregister (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:37385)
+	at RegisteredActionRunner.dispose (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:36048)
+	at Object.dispose (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:37482)
+	at o (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at s.cb (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:9846)
+	at /home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7796
+	at Array.map (<anonymous>)
+	at s.Y (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7784)
+	at s.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:8054)
+	at o.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:1513)
+	at l (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:9801)
+	at j.a (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:6594)
+	at j.h (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:90:19695)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7) setContext undefined
+2023-11-08 13:52:19.627 [error] Canceled: Canceled
+	at new m (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:57216)
+	at i.U (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:8315)
+	at n.g (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83747)
+	at n.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at b.registerCommand.description (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:82506)
+	at n.h (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:84283)
+	at n.g (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83278)
+	at n.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at Object.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:21282)
+	at w (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:1065459)
+	at l (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:1070087)
+	at ActionRunners._updateContextKeys (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:38822)
+	at s (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:37241)
+	at RegisteredActionRunner.unregister (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:37385)
+	at RegisteredActionRunner.dispose (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:36048)
+	at Object.dispose (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:37482)
+	at o (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at s.cb (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:9846)
+	at /home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7796
+	at Array.map (<anonymous>)
+	at s.Y (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7784)
+	at s.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:8054)
+	at o.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:1513)
+	at l (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:9801)
+	at j.a (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:6594)
+	at j.h (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:90:19695)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7) setContext undefined
+2023-11-08 13:52:19.627 [error] Canceled: Canceled
+	at new m (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:57216)
+	at i.U (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:8315)
+	at n.g (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83747)
+	at n.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at b.registerCommand.description (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:82506)
+	at n.h (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:84283)
+	at n.g (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83278)
+	at n.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at Object.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:21282)
+	at x0.reset (/home/tphilly/.vscode-server/extensions/github.vscode-pull-request-github-0.76.0/dist/extension.js:2003:7112)
+	at x0.dispose (/home/tphilly/.vscode-server/extensions/github.vscode-pull-request-github-0.76.0/dist/extension.js:2003:7383)
+	at o (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at s.cb (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:9846)
+	at /home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7796
+	at Array.map (<anonymous>)
+	at s.Y (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7784)
+	at s.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:8054)
+	at o.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:1513)
+	at l (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:9801)
+	at j.a (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:6594)
+	at j.h (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:90:19695)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7) setContext undefined
+2023-11-08 13:52:19.627 [error] Canceled: Canceled
+	at new m (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:57216)
+	at i.U (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:8315)
+	at n.g (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83747)
+	at n.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at b.registerCommand.description (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:82506)
+	at n.h (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:84283)
+	at n.g (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83278)
+	at n.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at Object.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:21282)
+	at w (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:1065459)
+	at l (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:1070087)
+	at ActionRunners._updateContextKeys (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:38822)
+	at s (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:37241)
+	at RegisteredActionRunner.unregister (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:37385)
+	at RegisteredActionRunner.dispose (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:36048)
+	at Object.dispose (/home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1/dist/gitlens.js:1:37482)
+	at w.<anonymous> (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:122:3521)
+	at w.dispose (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:122:3618)
+	at ug.dispose (/home/tphilly/.vscode-server/extensions/github.vscode-pull-request-github-0.76.0/dist/extension.js:1905:36255)
+	at o (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at s.cb (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:9846)
+	at /home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7796
+	at Array.map (<anonymous>)
+	at s.Y (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7784)
+	at s.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:8054)
+	at o.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:1513)
+	at l (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:9801)
+	at j.a (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:6594)
+	at j.h (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:90:19695)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7) setContext undefined
+2023-11-08 13:52:19.627 [error] Canceled: Canceled
+	at new m (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:57216)
+	at i.U (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:8315)
+	at n.g (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83747)
+	at n.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at b.registerCommand.description (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:82506)
+	at n.h (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:84283)
+	at n.g (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83278)
+	at n.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at Object.executeCommand (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:21282)
+	at s.value (/home/tphilly/.vscode-server/extensions/ms-vscode.live-server-0.4.11/out/extension.js:1:76820)
+	at c.z (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at f.closeServer (/home/tphilly/.vscode-server/extensions/ms-vscode.live-server-0.4.11/out/extension.js:1:86662)
+	at f.dispose (/home/tphilly/.vscode-server/extensions/ms-vscode.live-server-0.4.11/out/extension.js:1:88952)
+	at /home/tphilly/.vscode-server/extensions/ms-vscode.live-server-0.4.11/out/extension.js:1:71717
+	at Map.forEach (<anonymous>)
+	at b.closeAllServers (/home/tphilly/.vscode-server/extensions/ms-vscode.live-server-0.4.11/out/extension.js:1:71702)
+	at b.dispose (/home/tphilly/.vscode-server/extensions/ms-vscode.live-server-0.4.11/out/extension.js:1:71745)
+	at t.deactivate (/home/tphilly/.vscode-server/extensions/ms-vscode.live-server-0.4.11/out/extension.js:1:64717)
+	at s.cb (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:9651)
+	at /home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7796
+	at Array.map (<anonymous>)
+	at s.Y (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7784)
+	at s.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:8054)
+	at o.terminate (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:1513)
+	at l (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:9801)
+	at j.a (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:6594)
+	at j.h (/home/tphilly/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:90:19695)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7) setContext undefined
+2023-11-08 13:52:19.710 [info] Extension host with pid 20695 exiting with code 0

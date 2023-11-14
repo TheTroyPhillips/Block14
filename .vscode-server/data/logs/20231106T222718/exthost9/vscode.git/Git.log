@@ -1,0 +1,273 @@
+2023-11-07 20:37:02.160 [info] Log level: Info
+2023-11-07 20:37:02.160 [info] Validating found git in: "git"
+2023-11-07 20:37:02.160 [info] Using git "2.34.1" from "git"
+2023-11-07 20:37:02.160 [info] > git rev-parse --show-toplevel [30ms]
+2023-11-07 20:37:02.160 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2023-11-07 20:37:02.160 [info] Open repository: /home/tphilly
+2023-11-07 20:37:02.160 [info] > git rev-parse --show-toplevel [7ms]
+2023-11-07 20:37:02.160 [info] > git config --get commit.template [14ms]
+2023-11-07 20:37:02.444 [info] > git rev-parse --show-toplevel [272ms]
+2023-11-07 20:37:02.461 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [276ms]
+2023-11-07 20:37:02.473 [info] > git rev-parse --show-toplevel [16ms]
+2023-11-07 20:37:03.271 [info] > git check-ignore -v -z --stdin [165ms]
+2023-11-07 20:37:03.422 [info] > git status -z -uall [951ms] (cancelled)
+2023-11-07 20:37:04.271 [info] > git config --local branch.master.github-pr-owner-number [117ms]
+2023-11-07 20:37:04.280 [info] > git config --get commit.template [1ms]
+2023-11-07 20:37:04.320 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [33ms]
+2023-11-07 20:37:04.491 [info] > git status -z -uall [157ms] (cancelled)
+2023-11-07 20:37:06.141 [info] > git config --get commit.template [106ms]
+2023-11-07 20:37:06.235 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [70ms]
+2023-11-07 20:37:08.019 [info] > git status -z -uall [1771ms] (cancelled)
+2023-11-07 20:38:42.067 [info] > git check-ignore -v -z --stdin [7ms]
+2023-11-07 20:38:42.658 [info] > git show --textconv :Coursework/Block26-vite/Block26-vite/src/App.css [11ms]
+2023-11-07 20:38:42.663 [info] > git ls-files --stage -- /home/tphilly/Coursework/Block26-vite/Block26-vite/src/App.css [5ms]
+2023-11-07 20:38:44.086 [info] > git show --textconv :Coursework/Block26-vite/Block26-vite/src/App.jsx [49ms]
+2023-11-07 20:38:44.090 [info] > git ls-files --stage -- /home/tphilly/Coursework/Block26-vite/Block26-vite/src/App.jsx [36ms]
+2023-11-07 20:42:03.770 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-07 20:42:03.780 [info] > git config --get commit.template [1ms]
+2023-11-07 20:42:03.790 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-07 20:42:05.181 [info] > git status -z -uall [1383ms] (cancelled)
+2023-11-07 20:47:04.219 [info] > git config --local branch.master.github-pr-owner-number [0ms]
+2023-11-07 20:47:04.251 [info] > git config --get commit.template [16ms]
+2023-11-07 20:47:04.252 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-11-07 20:47:05.587 [info] > git status -z -uall [1319ms] (cancelled)
+2023-11-07 20:52:04.675 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-07 20:52:04.693 [info] > git config --get commit.template [8ms]
+2023-11-07 20:52:04.694 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-07 20:52:06.014 [info] > git status -z -uall [1313ms] (cancelled)
+2023-11-07 20:57:05.107 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-07 20:57:05.119 [info] > git config --get commit.template [1ms]
+2023-11-07 20:57:05.131 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-07 20:57:06.526 [info] > git status -z -uall [1384ms] (cancelled)
+2023-11-07 21:02:05.582 [info] > git config --local branch.master.github-pr-owner-number [13ms]
+2023-11-07 21:02:05.604 [info] > git config --get commit.template [8ms]
+2023-11-07 21:02:05.620 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-07 21:02:07.007 [info] > git status -z -uall [1377ms] (cancelled)
+2023-11-07 21:04:40.532 [info] > git show --textconv :Coursework/Block26-vite/Block26-vite/package.json [19ms]
+2023-11-07 21:04:40.546 [info] > git ls-files --stage -- /home/tphilly/Coursework/Block26-vite/Block26-vite/package.json [16ms]
+2023-11-07 21:04:44.239 [info] > git show --textconv :Coursework/Block26-vite/Block26-vite/src/App.jsx [13ms]
+2023-11-07 21:04:44.243 [info] > git ls-files --stage -- /home/tphilly/Coursework/Block26-vite/Block26-vite/src/App.jsx [4ms]
+2023-11-07 21:07:06.054 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-07 21:07:06.066 [info] > git config --get commit.template [1ms]
+2023-11-07 21:07:06.080 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-07 21:07:07.454 [info] > git status -z -uall [1362ms] (cancelled)
+2023-11-07 21:12:06.489 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-07 21:12:06.501 [info] > git config --get commit.template [1ms]
+2023-11-07 21:12:06.511 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-07 21:12:07.812 [info] > git status -z -uall [1290ms] (cancelled)
+2023-11-07 21:17:06.925 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-07 21:17:06.939 [info] > git config --get commit.template [1ms]
+2023-11-07 21:17:06.951 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-07 21:17:08.323 [info] > git status -z -uall [1361ms] (cancelled)
+2023-11-07 21:22:07.367 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-07 21:22:07.390 [info] > git config --get commit.template [11ms]
+2023-11-07 21:22:07.391 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-07 21:22:08.759 [info] > git status -z -uall [1356ms] (cancelled)
+2023-11-07 21:27:07.840 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-07 21:27:07.892 [info] > git config --get commit.template [24ms]
+2023-11-07 21:27:07.893 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-07 21:27:09.262 [info] > git status -z -uall [1353ms] (cancelled)
+2023-11-07 21:32:08.297 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-07 21:32:08.321 [info] > git config --get commit.template [12ms]
+2023-11-07 21:32:08.322 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-07 21:32:09.712 [info] > git status -z -uall [1378ms] (cancelled)
+2023-11-07 21:37:08.734 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-07 21:37:08.746 [info] > git config --get commit.template [1ms]
+2023-11-07 21:37:08.758 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-07 21:37:10.050 [info] > git status -z -uall [1283ms] (cancelled)
+2023-11-07 21:42:09.140 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-07 21:42:09.153 [info] > git config --get commit.template [0ms]
+2023-11-07 21:42:09.170 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-07 21:42:10.492 [info] > git status -z -uall [1303ms] (cancelled)
+2023-11-07 21:47:09.566 [info] > git config --local branch.master.github-pr-owner-number [0ms]
+2023-11-07 21:47:09.579 [info] > git config --get commit.template [1ms]
+2023-11-07 21:47:09.590 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-07 21:47:10.896 [info] > git status -z -uall [1296ms] (cancelled)
+2023-11-07 21:52:09.971 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-07 21:52:09.990 [info] > git config --get commit.template [9ms]
+2023-11-07 21:52:09.991 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-07 21:52:11.289 [info] > git status -z -uall [1289ms] (cancelled)
+2023-11-07 21:57:10.392 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-07 21:57:10.403 [info] > git config --get commit.template [1ms]
+2023-11-07 21:57:10.414 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-07 21:57:11.705 [info] > git status -z -uall [1282ms] (cancelled)
+2023-11-07 22:02:10.788 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-07 22:02:10.810 [info] > git config --get commit.template [11ms]
+2023-11-07 22:02:10.811 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-07 22:02:12.076 [info] > git status -z -uall [1256ms] (cancelled)
+2023-11-07 22:07:11.211 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-07 22:07:11.228 [info] > git config --get commit.template [1ms]
+2023-11-07 22:07:11.240 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-07 22:07:12.519 [info] > git status -z -uall [1270ms] (cancelled)
+2023-11-07 22:20:02.758 [info] > git config --local branch.master.github-pr-owner-number [0ms]
+2023-11-07 22:20:02.781 [info] > git config --get commit.template [11ms]
+2023-11-07 22:20:02.781 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-07 22:20:04.368 [info] > git status -z -uall [1510ms] (cancelled)
+2023-11-07 22:25:03.399 [info] > git config --local branch.master.github-pr-owner-number [0ms]
+2023-11-07 22:25:03.416 [info] > git config --get commit.template [2ms]
+2023-11-07 22:25:03.430 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-07 22:25:04.878 [info] > git status -z -uall [1437ms] (cancelled)
+2023-11-07 22:30:03.914 [info] > git config --local branch.master.github-pr-owner-number [5ms]
+2023-11-07 22:30:03.928 [info] > git config --get commit.template [1ms]
+2023-11-07 22:30:03.943 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-11-07 22:30:05.603 [info] > git status -z -uall [1650ms] (cancelled)
+2023-11-07 22:35:04.696 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-07 22:35:04.723 [info] > git config --get commit.template [14ms]
+2023-11-07 22:35:04.724 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-11-07 22:35:06.147 [info] > git status -z -uall [1410ms] (cancelled)
+2023-11-07 22:40:05.192 [info] > git config --local branch.master.github-pr-owner-number [2ms]
+2023-11-07 22:40:05.223 [info] > git config --get commit.template [14ms]
+2023-11-07 22:40:05.224 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-07 22:40:06.613 [info] > git status -z -uall [1375ms] (cancelled)
+2023-11-07 22:45:05.674 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-07 22:45:05.687 [info] > git config --get commit.template [1ms]
+2023-11-07 22:45:05.702 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-07 22:45:07.138 [info] > git status -z -uall [1424ms] (cancelled)
+2023-11-07 22:50:06.193 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-07 22:50:06.226 [info] > git config --get commit.template [18ms]
+2023-11-07 22:50:06.226 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-07 22:50:07.603 [info] > git status -z -uall [1365ms] (cancelled)
+2023-11-07 22:55:06.687 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-07 22:55:06.716 [info] > git config --get commit.template [13ms]
+2023-11-07 22:55:06.716 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-07 22:55:08.130 [info] > git status -z -uall [1403ms] (cancelled)
+2023-11-07 23:00:07.166 [info] > git config --local branch.master.github-pr-owner-number [3ms]
+2023-11-07 23:00:07.180 [info] > git config --get commit.template [2ms]
+2023-11-07 23:00:07.193 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-07 23:00:08.592 [info] > git status -z -uall [1388ms] (cancelled)
+2023-11-07 23:05:07.679 [info] > git config --local branch.master.github-pr-owner-number [3ms]
+2023-11-07 23:05:07.692 [info] > git config --get commit.template [1ms]
+2023-11-07 23:05:07.705 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-07 23:05:09.127 [info] > git status -z -uall [1410ms] (cancelled)
+2023-11-07 23:10:08.197 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-07 23:10:08.224 [info] > git config --get commit.template [12ms]
+2023-11-07 23:10:08.225 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-07 23:10:09.692 [info] > git status -z -uall [1459ms] (cancelled)
+2023-11-07 23:15:08.707 [info] > git config --local branch.master.github-pr-owner-number [0ms]
+2023-11-07 23:15:08.736 [info] > git config --get commit.template [15ms]
+2023-11-07 23:15:08.737 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-11-07 23:15:09.180 [info] > git status -z -uall [426ms] (cancelled)
+2023-11-07 23:20:09.197 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-07 23:20:09.211 [info] > git config --get commit.template [1ms]
+2023-11-07 23:20:09.223 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-07 23:20:10.609 [info] > git status -z -uall [1376ms] (cancelled)
+2023-11-07 23:25:09.682 [info] > git config --local branch.master.github-pr-owner-number [3ms]
+2023-11-07 23:25:09.695 [info] > git config --get commit.template [1ms]
+2023-11-07 23:25:09.708 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-07 23:25:10.158 [info] > git status -z -uall [438ms] (cancelled)
+2023-11-07 23:30:10.185 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-07 23:30:10.217 [info] > git config --get commit.template [15ms]
+2023-11-07 23:30:10.218 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-07 23:30:11.716 [info] > git status -z -uall [1485ms] (cancelled)
+2023-11-07 23:35:10.760 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-07 23:35:10.790 [info] > git config --get commit.template [14ms]
+2023-11-07 23:35:10.791 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-07 23:35:12.216 [info] > git status -z -uall [1411ms] (cancelled)
+2023-11-07 23:40:11.286 [info] > git config --local branch.master.github-pr-owner-number [0ms]
+2023-11-07 23:40:11.302 [info] > git config --get commit.template [1ms]
+2023-11-07 23:40:11.315 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-07 23:40:12.769 [info] > git status -z -uall [1445ms] (cancelled)
+2023-11-07 23:45:11.786 [info] > git config --local branch.master.github-pr-owner-number [2ms]
+2023-11-07 23:45:11.802 [info] > git config --get commit.template [2ms]
+2023-11-07 23:45:11.815 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-07 23:45:13.308 [info] > git status -z -uall [1482ms] (cancelled)
+2023-11-07 23:50:12.305 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-07 23:50:12.335 [info] > git config --get commit.template [16ms]
+2023-11-07 23:50:12.336 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-07 23:50:13.769 [info] > git status -z -uall [1403ms] (cancelled)
+2023-11-07 23:55:12.806 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-07 23:55:12.818 [info] > git config --get commit.template [1ms]
+2023-11-07 23:55:12.832 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-07 23:55:14.240 [info] > git status -z -uall [1397ms] (cancelled)
+2023-11-08 00:00:13.279 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-08 00:00:13.292 [info] > git config --get commit.template [1ms]
+2023-11-08 00:00:13.305 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-08 00:00:14.665 [info] > git status -z -uall [1349ms] (cancelled)
+2023-11-08 00:05:13.749 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-08 00:05:13.765 [info] > git config --get commit.template [0ms]
+2023-11-08 00:05:13.779 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-08 00:05:14.221 [info] > git status -z -uall [433ms] (cancelled)
+2023-11-08 00:10:14.235 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-08 00:10:14.252 [info] > git config --get commit.template [2ms]
+2023-11-08 00:10:14.265 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-08 00:10:15.629 [info] > git status -z -uall [1353ms] (cancelled)
+2023-11-08 00:15:14.715 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-08 00:15:14.730 [info] > git config --get commit.template [1ms]
+2023-11-08 00:15:14.741 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-08 00:15:16.128 [info] > git status -z -uall [1375ms] (cancelled)
+2023-11-08 00:20:15.195 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-08 00:20:15.210 [info] > git config --get commit.template [1ms]
+2023-11-08 00:20:15.223 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-08 00:20:16.617 [info] > git status -z -uall [1385ms] (cancelled)
+2023-11-08 00:25:15.686 [info] > git config --local branch.master.github-pr-owner-number [0ms]
+2023-11-08 00:25:15.707 [info] > git config --get commit.template [8ms]
+2023-11-08 00:25:15.707 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-08 00:25:17.253 [info] > git status -z -uall [1534ms] (cancelled)
+2023-11-08 00:30:16.219 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-08 00:30:16.246 [info] > git config --get commit.template [16ms]
+2023-11-08 00:30:16.247 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-11-08 00:30:17.668 [info] > git status -z -uall [1407ms] (cancelled)
+2023-11-08 00:35:16.771 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-08 00:35:16.783 [info] > git config --get commit.template [1ms]
+2023-11-08 00:35:16.793 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-08 00:35:18.107 [info] > git status -z -uall [1305ms] (cancelled)
+2023-11-08 00:40:17.207 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-08 00:40:17.226 [info] > git config --get commit.template [1ms]
+2023-11-08 00:40:17.241 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-08 00:40:18.534 [info] > git status -z -uall [1278ms] (cancelled)
+2023-11-08 00:45:17.648 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-08 00:45:17.659 [info] > git config --get commit.template [1ms]
+2023-11-08 00:45:17.668 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-08 00:45:18.966 [info] > git status -z -uall [1290ms] (cancelled)
+2023-11-08 00:50:18.087 [info] > git config --local branch.master.github-pr-owner-number [0ms]
+2023-11-08 00:50:18.111 [info] > git config --get commit.template [11ms]
+2023-11-08 00:50:18.112 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-08 00:50:19.463 [info] > git status -z -uall [1340ms] (cancelled)
+2023-11-08 00:55:18.544 [info] > git config --local branch.master.github-pr-owner-number [0ms]
+2023-11-08 00:55:18.556 [info] > git config --get commit.template [0ms]
+2023-11-08 00:55:18.567 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-08 00:55:19.852 [info] > git status -z -uall [1276ms] (cancelled)
+2023-11-08 01:00:18.977 [info] > git config --local branch.master.github-pr-owner-number [0ms]
+2023-11-08 01:00:18.994 [info] > git config --get commit.template [2ms]
+2023-11-08 01:00:19.007 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-08 01:00:20.331 [info] > git status -z -uall [1314ms] (cancelled)
+2023-11-08 01:05:19.424 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-08 01:05:19.442 [info] > git config --get commit.template [7ms]
+2023-11-08 01:05:19.443 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-08 01:05:20.720 [info] > git status -z -uall [1267ms] (cancelled)
+2023-11-08 01:10:19.852 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-08 01:10:19.872 [info] > git config --get commit.template [10ms]
+2023-11-08 01:10:19.872 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-08 01:10:21.152 [info] > git status -z -uall [1272ms] (cancelled)
+2023-11-08 01:15:20.271 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-08 01:15:20.291 [info] > git config --get commit.template [10ms]
+2023-11-08 01:15:20.292 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-08 01:15:21.628 [info] > git status -z -uall [1327ms] (cancelled)
+2023-11-08 01:20:20.706 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-08 01:20:20.717 [info] > git config --get commit.template [0ms]
+2023-11-08 01:20:20.730 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-08 01:20:22.062 [info] > git status -z -uall [1324ms] (cancelled)
+2023-11-08 01:25:21.153 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-08 01:25:21.173 [info] > git config --get commit.template [11ms]
+2023-11-08 01:25:21.174 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-08 01:25:22.472 [info] > git status -z -uall [1289ms] (cancelled)
+2023-11-08 01:30:21.591 [info] > git config --local branch.master.github-pr-owner-number [0ms]
+2023-11-08 01:30:21.604 [info] > git config --get commit.template [1ms]
+2023-11-08 01:30:21.613 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-08 01:30:22.905 [info] > git status -z -uall [1283ms] (cancelled)
+2023-11-08 01:35:22.034 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-08 01:35:22.044 [info] > git config --get commit.template [0ms]
+2023-11-08 01:35:22.053 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-08 01:35:22.455 [info] > git status -z -uall [393ms] (cancelled)
+2023-11-08 01:40:22.467 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-08 01:40:22.479 [info] > git config --get commit.template [1ms]
+2023-11-08 01:40:22.489 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-08 01:40:23.796 [info] > git status -z -uall [1299ms] (cancelled)
+2023-11-08 01:45:22.912 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-08 01:45:22.930 [info] > git config --get commit.template [7ms]
+2023-11-08 01:45:22.931 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-08 01:45:24.244 [info] > git status -z -uall [1304ms] (cancelled)
+2023-11-08 13:48:55.028 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-08 13:48:55.049 [info] > git config --get commit.template [10ms]
+2023-11-08 13:48:55.050 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-08 13:48:56.440 [info] > git status -z -uall [1379ms] (cancelled)

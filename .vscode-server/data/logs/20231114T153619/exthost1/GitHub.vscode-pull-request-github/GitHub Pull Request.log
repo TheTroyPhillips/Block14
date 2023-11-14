@@ -1,0 +1,35 @@
+2023-11-14 15:36:23.844 [info] Activation> Extension version: 0.76.1
+2023-11-14 15:36:24.367 [info] Looking for git repository
+2023-11-14 15:36:24.367 [info] Found 0 repositories during activation
+2023-11-14 15:36:24.367 [info] Git repository found, initializing review manager and pr tree view.
+2023-11-14 15:36:24.371 [info] Registering git provider
+2023-11-14 15:36:24.371 [info] Review> Validate state in progress
+2023-11-14 15:36:24.371 [info] Review> Validating state...
+2023-11-14 15:36:24.371 [info] Review> Validate state in progress
+2023-11-14 15:36:24.371 [info] Review> Validating state...
+2023-11-14 15:36:24.395 [info] Found GitHub remote for folder /home/tphilly/Coursework/puppy-bowl/Unit2.PuppyBowl.Starter
+2023-11-14 15:36:24.395 [info] Found GitHub remote for folder /home/tphilly/Coursework/puppy-bowl
+2023-11-14 15:36:24.871 [info] Trying to use globalState for assignableUsers.
+2023-11-14 15:36:25.135 [info] Trying to use globalState for assignableUsers.
+2023-11-14 15:36:25.182 [info] Using globalState assignableUsers for 1.
+2023-11-14 15:36:25.236 [info] Repo state for file:///home/tphilly/Coursework/puppy-bowl changed.
+2023-11-14 15:36:25.236 [info] Repo file:///home/tphilly/Coursework/puppy-bowl has already been setup.
+2023-11-14 15:36:25.238 [info] Review> Found matching pull request metadata for current branch main. Repo: Troy-Phillips-Puppy-Bowl/puppy-bowl PR: 1
+2023-11-14 15:36:25.238 [info] Review> current branch main is associated with pull request #1
+2023-11-14 15:36:25.238 [info] Review> Resolving pull request
+2023-11-14 15:36:25.282 [info] Using globalState assignableUsers for 2.
+2023-11-14 15:36:25.341 [info] Repo state for file:///home/tphilly/Coursework/puppy-bowl/Unit2.PuppyBowl.Starter changed.
+2023-11-14 15:36:25.341 [info] Repo file:///home/tphilly/Coursework/puppy-bowl/Unit2.PuppyBowl.Starter has already been setup.
+2023-11-14 15:36:25.342 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-14 15:36:26.238 [info] Review> Resolved PR #1, state is 1
+2023-11-14 15:36:26.460 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-11-14 15:36:26.719 [info] Found matching pull request metadata on GitHub for current branch main. Repo: Troy-Phillips-Puppy-Bowl/puppy-bowl PR: 1
+2023-11-14 15:36:26.719 [info] PullRequestGitHelper> associate main with Pull Request #1
+2023-11-14 15:36:26.764 [info] Review> Fetching pull request data
+2023-11-14 15:36:26.764 [info] PullRequestTree> Adding PR #1 to tree
+2023-11-14 15:36:26.816 [info] Review> Register comments provider
+2023-11-14 15:36:26.817 [info] Review> Register in memory content provider
+2023-11-14 15:36:27.560 [info] Review> Display pull request status bar indicator.
+2023-11-14 15:36:27.560 [info] Review> Using focus mode = true.
+2023-11-14 15:36:27.560 [info] Review> State validation silent = true.
+2023-11-14 15:36:27.560 [info] Review> PR show should show = false.

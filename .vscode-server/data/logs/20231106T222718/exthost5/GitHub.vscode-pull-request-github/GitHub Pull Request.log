@@ -1,0 +1,18 @@
+2023-11-07 17:04:54.113 [info] Activation> Extension version: 0.76.0
+2023-11-07 17:04:54.600 [info] Looking for git repository
+2023-11-07 17:04:54.600 [info] Found 0 repositories during activation
+2023-11-07 17:04:54.600 [info] Git repository found, initializing review manager and pr tree view.
+2023-11-07 17:04:54.605 [info] Registering git provider
+2023-11-07 17:04:54.605 [info] Review> Validate state in progress
+2023-11-07 17:04:54.605 [info] Review> Validating state...
+2023-11-07 17:04:54.645 [info] Found GitHub remote for folder /home/tphilly
+2023-11-07 17:04:54.961 [info] Repo state for file:///home/tphilly changed.
+2023-11-07 17:04:54.961 [info] Repo file:///home/tphilly has already been setup.
+2023-11-07 17:04:57.456 [info] Trying to use globalState for assignableUsers.
+2023-11-07 17:04:57.685 [info] Using globalState assignableUsers for 1.
+2023-11-07 17:04:58.049 [info] Review> No matching pull request metadata found locally for current branch master
+2023-11-07 17:04:59.237 [info] Review> No matching pull request metadata found on GitHub for current branch master
+2023-11-07 17:05:26.737 [info] Repository file:///home/tphilly/Coursework/Color-picker/Unit3.ColorPicker.Starter has been opened
+2023-11-07 17:05:26.737 [info] Repo file:///home/tphilly/Coursework/Color-picker/Unit3.ColorPicker.Starter has already been setup.
+2023-11-07 17:05:26.781 [info] Repo state for file:///home/tphilly/Coursework/Color-picker/Unit3.ColorPicker.Starter changed.
+2023-11-07 17:05:26.781 [info] Repo file:///home/tphilly/Coursework/Color-picker/Unit3.ColorPicker.Starter has already been setup.

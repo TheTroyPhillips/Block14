@@ -1,0 +1,33 @@
+2023-11-07 17:05:35.006 [info] Activation> Extension version: 0.76.0
+2023-11-07 17:05:35.316 [info] Looking for git repository
+2023-11-07 17:05:35.316 [info] Found 0 repositories during activation
+2023-11-07 17:05:35.316 [info] Git repository found, initializing review manager and pr tree view.
+2023-11-07 17:05:35.321 [info] Registering git provider
+2023-11-07 17:05:35.321 [info] Review> Validate state in progress
+2023-11-07 17:05:35.321 [info] Review> Validating state...
+2023-11-07 17:05:35.352 [info] Found GitHub remote for folder /home/tphilly/Coursework/Color-picker/Unit3.ColorPicker.Starter
+2023-11-07 17:05:35.727 [info] Trying to use globalState for assignableUsers.
+2023-11-07 17:05:35.872 [info] No globalState for assignableUsers.
+2023-11-07 17:05:35.942 [info] Repo state for file:///home/tphilly/Coursework/Color-picker/Unit3.ColorPicker.Starter changed.
+2023-11-07 17:05:35.942 [info] Repo file:///home/tphilly/Coursework/Color-picker/Unit3.ColorPicker.Starter has already been setup.
+2023-11-07 17:05:35.943 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-07 17:05:36.403 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-11-07 17:11:03.011 [info] Review> Validate state in progress
+2023-11-07 17:11:03.011 [info] Review> Validating state...
+2023-11-07 17:11:03.015 [info] Found GitHub remote for folder /home/tphilly/Coursework/Color-picker/Unit3.ColorPicker.Starter
+2023-11-07 17:11:03.311 [info] Trying to use globalState for assignableUsers.
+2023-11-07 17:11:03.443 [info] No globalState for assignableUsers.
+2023-11-07 17:11:03.470 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-07 17:11:03.784 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-11-07 17:11:59.558 [info] Review> Validate state in progress
+2023-11-07 17:11:59.558 [info] Review> Validating state...
+2023-11-07 17:11:59.566 [info] Found GitHub remote for folder /home/tphilly/Coursework/Color-picker/Unit3.ColorPicker.Starter
+2023-11-07 17:11:59.567 [info] Using in-memory cached assignable users.
+2023-11-07 17:11:59.695 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-07 17:12:00.016 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-11-07 17:49:45.618 [info] Review> Validate state in progress
+2023-11-07 17:49:45.618 [info] Review> Validating state...
+2023-11-07 17:49:45.752 [info] Found GitHub remote for folder /home/tphilly/Coursework/Color-picker/Unit3.ColorPicker.Starter
+2023-11-07 17:49:45.753 [info] Using in-memory cached assignable users.
+2023-11-07 17:49:45.855 [info] Review> No matching pull request metadata found locally for current branch main
+2023-11-07 17:49:46.155 [info] Review> No matching pull request metadata found on GitHub for current branch main

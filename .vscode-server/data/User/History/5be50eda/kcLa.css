@@ -1,0 +1,91 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #de96a2; /* Soft blue background color */
+  margin: 0;
+  padding: 0;
+}
+
+.content {
+  margin-left: 900px;
+
+}
+
+#all-players-container {
+  max-width: 800px;
+  margin-left: 300px;
+  padding: 0px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  background-color:rgb(219, 209, 196); 
+  border-radius: 20px; 
+  border: solid 2px #bd848e;
+}
+
+
+.result {
+  text-align: center;
+  margin: 25px;
+  padding: 0px;
+  border-style: inset;padding: 2px 4px;
+  background-color: #f3ebe5;
+  
+}
+
+img {
+  max-width: 220px; 
+  max-height: 220px;
+}
+
+#navTitle {
+  text-align: center; 
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-transform: uppercase; 
+  text-shadow: 4px 4px 8px #a26868; font-weight: bolder; line-height: 1.5;
+  font-size: 29px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+
+  max-width: 400px;
+  padding: 30px;
+  border: solid 2px blue;
+  background: white;
+  color:black;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+form label {
+  margin-bottom: 10px;
+  border: none;
+}
+
+form input[type="text"] {
+  padding: 7px 25px;
+  margin-left: 10px;
+}
+
+form input[name="name"] {
+  margin-left: 25px;
+}
+
+form input[name="breed"] {
+  margin-left: 23.5px;
+}
+
+form input[name="position"] {
+  margin-bottom: 18.5px;
+}
+
+form input[type="button"] {
+  color: #1e1e1e;
+  padding: 10px 20px;
+  cursor: pointer;
+  width: 375px;
+  border-width: thin;
+  border-radius: 5px;
+  transition: transform 0.3s ease;
+}

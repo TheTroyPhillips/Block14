@@ -1,0 +1,31 @@
+2023-11-14 15:44:12.646 [info] Log level: Info
+2023-11-14 15:44:12.646 [info] Validating found git in: "git"
+2023-11-14 15:44:12.646 [info] Using git "2.34.1" from "git"
+2023-11-14 15:44:12.646 [info] > git rev-parse --show-toplevel [4ms]
+2023-11-14 15:44:12.646 [info] > git rev-parse --git-dir --git-common-dir [12ms]
+2023-11-14 15:44:12.646 [info] Open repository: /home/tphilly
+2023-11-14 15:44:12.646 [info] > git rev-parse --show-toplevel [9ms]
+2023-11-14 15:44:12.646 [info] > git config --get commit.template [19ms]
+2023-11-14 15:44:12.646 [info] > git rev-parse --show-toplevel [30ms]
+2023-11-14 15:44:12.647 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2023-11-14 15:44:13.515 [info] > git check-ignore -v -z --stdin [27ms]
+2023-11-14 15:44:13.543 [info] > git status -z -uall [891ms] (cancelled)
+2023-11-14 15:44:14.447 [info] > git config --local branch.master.github-pr-owner-number [101ms]
+2023-11-14 15:44:14.454 [info] > git config --get commit.template [1ms]
+2023-11-14 15:44:14.461 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-14 15:44:14.594 [info] > git status -z -uall [128ms] (cancelled)
+2023-11-14 15:44:16.127 [info] > git config --get commit.template [24ms]
+2023-11-14 15:44:16.212 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [35ms]
+2023-11-14 15:44:17.906 [info] > git status -z -uall [1682ms] (cancelled)
+2023-11-14 15:46:33.622 [info] > git check-ignore -v -z --stdin [9ms]
+2023-11-14 15:46:34.849 [info] > git show --textconv :Coursework/Block27app/src/App.jsx [37ms]
+2023-11-14 15:46:34.849 [info] > git ls-files --stage -- /home/tphilly/Coursework/Block27app/src/App.jsx [26ms]
+2023-11-14 15:49:14.013 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-14 15:49:14.028 [info] > git config --get commit.template [7ms]
+2023-11-14 15:49:14.029 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-14 15:49:15.778 [info] > git status -z -uall [1742ms] (cancelled)
+2023-11-14 15:54:14.719 [info] > git config --local branch.master.github-pr-owner-number [1ms]
+2023-11-14 15:54:14.734 [info] > git config --get commit.template [6ms]
+2023-11-14 15:54:14.735 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-14 15:54:16.470 [info] > git status -z -uall [1728ms] (cancelled)
+2023-11-14 15:54:53.418 [info] > git check-ignore -v -z --stdin [8ms]

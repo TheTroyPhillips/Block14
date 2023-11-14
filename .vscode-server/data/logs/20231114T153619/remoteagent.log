@@ -1,0 +1,23 @@
+2023-11-14 15:36:19.823 [info] 
+
+
+
+
+2023-11-14 15:36:19.831 [info] Extension host agent started.
+2023-11-14 15:36:19.922 [info] Deleted uninstalled extension from disk eamodio.gitlens /home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.4.1
+2023-11-14 15:36:20.015 [info] [127.0.0.1][31af344e][ManagementConnection] New connection established.
+2023-11-14 15:36:20.286 [info] [127.0.0.1][6fab05a6][ExtensionHostConnection] New connection established.
+2023-11-14 15:36:21.434 [info] [127.0.0.1][6fab05a6][ExtensionHostConnection] <54519> Launched Extension Host Process.
+2023-11-14 15:37:38.692 [info] [127.0.0.1][6afe88a9][ManagementConnection] New connection established.
+2023-11-14 15:37:39.391 [info] [127.0.0.1][4c201116][ExtensionHostConnection] New connection established.
+2023-11-14 15:37:39.402 [info] [127.0.0.1][4c201116][ExtensionHostConnection] <55086> Launched Extension Host Process.
+2023-11-14 15:37:42.786 [info] [127.0.0.1][6afe88a9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-14 15:37:43.030 [info] [127.0.0.1][4c201116][ExtensionHostConnection] <55086> Extension Host Process exited with code: 0, signal: null.
+2023-11-14 15:39:26.405 [info] [127.0.0.1][c6377f5b][ManagementConnection] New connection established.
+2023-11-14 15:39:26.866 [info] [127.0.0.1][91c83afb][ExtensionHostConnection] New connection established.
+2023-11-14 15:39:26.874 [info] [127.0.0.1][91c83afb][ExtensionHostConnection] <55944> Launched Extension Host Process.
+2023-11-14 15:39:30.981 [info] [127.0.0.1][c6377f5b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-14 15:39:32.447 [info] [127.0.0.1][91c83afb][ExtensionHostConnection] <55944> Extension Host Process exited with code: 0, signal: null.
+2023-11-14 15:44:11.229 [info] [127.0.0.1][a4ebdc31][ManagementConnection] New connection established.
+2023-11-14 15:44:11.904 [info] [127.0.0.1][2f71d817][ExtensionHostConnection] New connection established.
+2023-11-14 15:44:11.914 [info] [127.0.0.1][2f71d817][ExtensionHostConnection] <57158> Launched Extension Host Process.

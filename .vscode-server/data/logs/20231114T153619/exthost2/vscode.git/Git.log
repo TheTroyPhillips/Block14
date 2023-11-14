@@ -1,0 +1,20 @@
+2023-11-14 15:37:40.919 [info] Log level: Info
+2023-11-14 15:37:40.919 [info] Validating found git in: "git"
+2023-11-14 15:37:40.919 [info] Using git "2.34.1" from "git"
+2023-11-14 15:37:40.919 [info] > git rev-parse --show-toplevel [12ms]
+2023-11-14 15:37:40.919 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2023-11-14 15:37:40.919 [info] Open repository: /home/tphilly/Coursework/troys-puppy-bowl/troyspuppybowl
+2023-11-14 15:37:40.921 [info] > git config --get commit.template [93ms]
+2023-11-14 15:37:40.948 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [14ms]
+2023-11-14 15:37:40.958 [info] > git status -z -uall [3ms]
+2023-11-14 15:37:40.974 [info] > git config --get commit.template [2ms]
+2023-11-14 15:37:40.982 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-11-14 15:37:40.989 [info] > git status -z -uall [1ms]
+2023-11-14 15:37:41.508 [info] > git check-ignore -v -z --stdin [51ms]
+2023-11-14 15:37:41.749 [info] > git show --textconv :README.md [15ms]
+2023-11-14 15:37:41.887 [info] > git ls-files --stage -- /home/tphilly/Coursework/troys-puppy-bowl/troyspuppybowl/README.md [147ms]
+2023-11-14 15:37:41.935 [info] > git cat-file -s 59e20d2f21c9dc6c5f0fb4bc14aaf7a346433f9a [41ms]
+2023-11-14 15:37:42.469 [info] > git config --local branch.main.github-pr-owner-number [109ms]
+2023-11-14 15:37:42.478 [info] > git config --get commit.template [2ms]
+2023-11-14 15:37:42.487 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-11-14 15:37:42.518 [info] > git status -z -uall [26ms]

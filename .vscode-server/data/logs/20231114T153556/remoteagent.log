@@ -1,0 +1,19 @@
+2023-11-14 15:35:56.923 [info] 
+
+
+
+
+2023-11-14 15:35:56.945 [info] Extension host agent started.
+2023-11-14 15:35:57.074 [info] [127.0.0.1][88baee47][ManagementConnection] New connection established.
+2023-11-14 15:35:57.310 [info] [127.0.0.1][24b336ef][ExtensionHostConnection] New connection established.
+2023-11-14 15:35:58.485 [info] [127.0.0.1][24b336ef][ExtensionHostConnection] <53896> Launched Extension Host Process.
+2023-11-14 15:36:01.414 [info] Getting Manifest... eamodio.gitlens
+2023-11-14 15:36:01.757 [info] Installing extension: eamodio.gitlens
+2023-11-14 15:36:01.994 [info] [127.0.0.1][88baee47][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-14 15:36:02.373 [info] [127.0.0.1][24b336ef][ExtensionHostConnection] <53896> Extension Host Process exited with code: 0, signal: null.
+2023-11-14 15:36:03.087 [warning] Extension signature verification failed with error 'ENOENT': eamodio.gitlens
+2023-11-14 15:36:03.576 [info] Extracted extension to file:///home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.5.0: eamodio.gitlens
+2023-11-14 15:36:03.589 [info] Renamed to /home/tphilly/.vscode-server/extensions/eamodio.gitlens-14.5.0
+2023-11-14 15:36:03.595 [info] Extracting extension completed. eamodio.gitlens
+2023-11-14 15:36:03.602 [info] Extension installed successfully: eamodio.gitlens
+2023-11-14 15:36:03.612 [info] Marked extension as uninstalled eamodio.gitlens-14.4.1

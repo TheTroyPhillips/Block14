@@ -1,0 +1,13 @@
+2023-11-09 18:32:35.449 [info] 
+
+
+
+
+2023-11-09 18:32:35.457 [info] Extension host agent started.
+2023-11-09 18:32:35.565 [info] Deleted uninstalled extension from disk github.vscode-pull-request-github /home/tphilly/.vscode-server/extensions/github.vscode-pull-request-github-0.76.0
+2023-11-09 18:32:35.566 [info] Deleted uninstalled extension from disk ms-python.vscode-pylance /home/tphilly/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.50
+2023-11-09 18:32:35.699 [info] [127.0.0.1][2adc90e8][ManagementConnection] New connection established.
+2023-11-09 18:32:35.856 [info] [127.0.0.1][08e0445d][ExtensionHostConnection] New connection established.
+2023-11-09 18:32:37.465 [info] [127.0.0.1][08e0445d][ExtensionHostConnection] <1508> Launched Extension Host Process.
+2023-11-09 20:51:27.967 [info] [127.0.0.1][2adc90e8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-09 20:51:28.201 [info] [127.0.0.1][08e0445d][ExtensionHostConnection] <1508> Extension Host Process exited with code: 0, signal: null.

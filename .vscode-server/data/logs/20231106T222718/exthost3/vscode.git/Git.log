@@ -1,0 +1,121 @@
+2023-11-06 23:07:43.620 [info] Log level: Info
+2023-11-06 23:07:43.620 [info] Validating found git in: "git"
+2023-11-06 23:07:43.620 [info] Using git "2.34.1" from "git"
+2023-11-06 23:07:43.620 [info] > git rev-parse --show-toplevel [11ms]
+2023-11-06 23:07:43.620 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-11-06 23:07:43.620 [info] Open repository: /home/tphilly
+2023-11-06 23:07:43.620 [info] > git config --get commit.template [451ms]
+2023-11-06 23:07:43.643 [info] > git rev-parse --show-toplevel [465ms]
+2023-11-06 23:07:43.753 [info] > git rev-parse --show-toplevel [92ms]
+2023-11-06 23:07:43.753 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [101ms]
+2023-11-06 23:07:43.797 [info] > git rev-parse --show-toplevel [20ms]
+2023-11-06 23:07:43.859 [info] > git check-ignore -v -z --stdin [89ms]
+2023-11-06 23:07:43.860 [info] > git rev-parse --show-toplevel [49ms]
+2023-11-06 23:07:43.872 [info] > git rev-parse --show-toplevel [4ms]
+2023-11-06 23:07:43.929 [info] > git rev-parse --show-toplevel [4ms]
+2023-11-06 23:07:43.976 [info] > git rev-parse --show-toplevel [13ms]
+2023-11-06 23:07:44.057 [info] > git status -z -uall [299ms]
+2023-11-06 23:07:44.058 [info] > git rev-parse --show-toplevel [74ms]
+2023-11-06 23:07:45.312 [info] > git rev-parse --show-toplevel [1248ms]
+2023-11-06 23:07:45.342 [info] > git config --get commit.template [48ms]
+2023-11-06 23:07:45.344 [info] > git rev-parse --show-toplevel [4ms]
+2023-11-06 23:07:45.370 [info] > git rev-parse --show-toplevel [7ms]
+2023-11-06 23:07:45.370 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [17ms]
+2023-11-06 23:07:45.395 [info] > git rev-parse --show-toplevel [1ms]
+2023-11-06 23:07:45.403 [info] > git rev-parse --show-toplevel [1ms]
+2023-11-06 23:07:45.430 [info] > git rev-parse --show-toplevel [17ms]
+2023-11-06 23:07:45.445 [info] > git rev-parse --show-toplevel [6ms]
+2023-11-06 23:07:45.455 [info] > git rev-parse --show-toplevel [1ms]
+2023-11-06 23:07:45.466 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-06 23:07:45.473 [info] > git rev-parse --show-toplevel [1ms]
+2023-11-06 23:07:45.496 [info] > git rev-parse --show-toplevel [6ms]
+2023-11-06 23:07:45.580 [info] > git rev-parse --show-toplevel [77ms]
+2023-11-06 23:07:45.613 [info] > git rev-parse --show-toplevel [11ms]
+2023-11-06 23:07:45.632 [info] > git rev-parse --show-toplevel [10ms]
+2023-11-06 23:07:45.659 [info] > git status -z -uall [278ms]
+2023-11-06 23:07:45.659 [info] > git rev-parse --show-toplevel [19ms]
+2023-11-06 23:07:46.893 [info] > git rev-parse --show-toplevel [1224ms]
+2023-11-06 23:07:46.937 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-06 23:07:46.979 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2023-11-06 23:07:46.985 [info] Open repository: /home/tphilly/Coursework/Troy-Phillips-Personal-Website
+2023-11-06 23:07:47.049 [info] > git rev-parse --show-toplevel [30ms]
+2023-11-06 23:07:47.049 [info] > git config --get commit.template [46ms]
+2023-11-06 23:07:47.103 [info] > git rev-parse --git-dir --git-common-dir [38ms]
+2023-11-06 23:07:47.107 [info] Open repository: /home/tphilly/Coursework/Troy-Phillps-personal-website-new
+2023-11-06 23:07:47.148 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [48ms]
+2023-11-06 23:07:47.226 [info] > git status -z -uall [60ms]
+2023-11-06 23:07:47.227 [info] > git rev-parse --show-toplevel [80ms]
+2023-11-06 23:07:47.227 [info] > git config --get commit.template [99ms]
+2023-11-06 23:07:47.324 [info] > git rev-parse --git-dir --git-common-dir [32ms]
+2023-11-06 23:07:47.328 [info] Open repository: /home/tphilly/Coursework/Unit2.PartyLogs.Starter
+2023-11-06 23:07:47.426 [info] > git config --get commit.template [103ms]
+2023-11-06 23:07:47.426 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [114ms]
+2023-11-06 23:07:47.451 [info] > git status -z -uall [15ms]
+2023-11-06 23:07:47.483 [info] > git rev-parse --show-toplevel [115ms]
+2023-11-06 23:07:47.483 [info] > git config --get commit.template [126ms]
+2023-11-06 23:07:47.572 [info] > git rev-parse --show-toplevel [50ms]
+2023-11-06 23:07:47.573 [info] > git config --get commit.template [61ms]
+2023-11-06 23:07:47.573 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [76ms]
+2023-11-06 23:07:47.597 [info] > git status -z -uall [14ms]
+2023-11-06 23:07:47.599 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [44ms]
+2023-11-06 23:07:47.625 [info] > git rev-parse --show-toplevel [29ms]
+2023-11-06 23:07:47.626 [info] > git status -z -uall [18ms]
+2023-11-06 23:07:47.627 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2023-11-06 23:07:47.667 [info] > git status -z -uall [30ms]
+2023-11-06 23:07:47.670 [info] > git config --get commit.template [5ms]
+2023-11-06 23:07:47.670 [info] > git rev-parse --show-toplevel [18ms]
+2023-11-06 23:07:47.695 [info] > git rev-parse --show-toplevel [14ms]
+2023-11-06 23:07:47.696 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-11-06 23:07:47.717 [info] > git status -z -uall [11ms]
+2023-11-06 23:07:47.717 [info] > git rev-parse --show-toplevel [1ms]
+2023-11-06 23:07:47.731 [info] > git rev-parse --show-toplevel [4ms]
+2023-11-06 23:07:47.745 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2023-11-06 23:07:47.748 [info] Open repository: /home/tphilly/Coursework/puppy-bowl
+2023-11-06 23:07:47.780 [info] > git rev-parse --show-toplevel [8ms]
+2023-11-06 23:07:47.780 [info] > git config --get commit.template [19ms]
+2023-11-06 23:07:47.845 [info] > git rev-parse --show-toplevel [54ms]
+2023-11-06 23:07:47.856 [info] > git check-ignore -v -z --stdin [29ms]
+2023-11-06 23:07:47.857 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [16ms]
+2023-11-06 23:07:47.869 [info] > git rev-parse --show-toplevel [14ms]
+2023-11-06 23:07:47.869 [info] > git status -z -uall [1ms]
+2023-11-06 23:07:47.908 [info] > git config --get commit.template [8ms]
+2023-11-06 23:07:47.909 [info] > git rev-parse --git-dir --git-common-dir [21ms]
+2023-11-06 23:07:47.912 [info] Open repository: /home/tphilly/Coursework/vite-project
+2023-11-06 23:07:48.006 [info] > git show --textconv :Coursework/Block04/test.json [82ms]
+2023-11-06 23:07:48.006 [info] > git ls-files --stage -- /home/tphilly/Coursework/Block04/test.json [69ms]
+2023-11-06 23:07:48.085 [info] > git cat-file -s 3cd670881a52e77b6d0a71b795d795aa720e31c1 [68ms]
+2023-11-06 23:07:48.086 [info] > git config --get commit.template [112ms]
+2023-11-06 23:07:48.095 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [62ms]
+2023-11-06 23:07:48.108 [info] No remotes found in the git config file.
+2023-11-06 23:07:48.133 [info] > git status -z -uall [26ms]
+2023-11-06 23:07:48.133 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+2023-11-06 23:07:48.160 [info] > git status -z -uall [6ms]
+2023-11-06 23:07:48.210 [info] > git config --get commit.template [28ms]
+2023-11-06 23:07:48.226 [info] No remotes found in the git config file.
+2023-11-06 23:07:48.227 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-06 23:07:48.237 [info] > git status -z -uall [1ms]
+2023-11-06 23:07:48.476 [info] > git config --local branch.master.github-pr-owner-number [105ms]
+2023-11-06 23:07:48.496 [info] > git config --get commit.template [6ms]
+2023-11-06 23:07:48.509 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-11-06 23:07:48.577 [info] > git check-ignore -v -z --stdin [19ms]
+2023-11-06 23:07:48.636 [info] > git status -z -uall [117ms]
+2023-11-06 23:08:13.000 [info] > git check-ignore -v -z --stdin [5ms]
+2023-11-06 23:08:14.444 [info] > git check-ignore -v -z --stdin [8ms]
+2023-11-06 23:08:16.230 [info] > git check-ignore -v -z --stdin [8ms]
+2023-11-06 23:12:45.620 [info] > git config --local branch.master.github-pr-owner-number [2ms]
+2023-11-06 23:12:45.629 [info] > git config --get commit.template [1ms]
+2023-11-06 23:12:45.637 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-06 23:12:45.758 [info] > git status -z -uall [114ms]
+2023-11-06 23:13:21.476 [info] > git show --textconv :Coursework/Block04/test.json [10ms]
+2023-11-06 23:13:21.481 [info] > git ls-files --stage -- /home/tphilly/Coursework/Block04/test.json [5ms]
+2023-11-06 23:13:21.490 [info] > git cat-file -s 3cd670881a52e77b6d0a71b795d795aa720e31c1 [1ms]
+2023-11-06 23:13:26.630 [info] > git check-ignore -v -z --stdin [7ms]
+2023-11-06 23:14:50.074 [info] > git clone https://github.com/TheTroyPhillips/Unit2.PuppyBowl.Starter.git /home/tphilly/Coursework/puppy-bowl/Unit2.PuppyBowl.Starter --progress [870ms]
+2023-11-06 23:14:50.074 [info] Cloning into '/home/tphilly/Coursework/puppy-bowl/Unit2.PuppyBowl.Starter'...
+remote: Enumerating objects: 27, done.        
+remote: Total 27 (delta 0), reused 0 (delta 0), pack-reused 27        
+Receiving objects:   3% (1/27)Receiving objects:   7% (2/27)Receiving objects:  11% (3/27)Receiving objects:  14% (4/27)Receiving objects:  18% (5/27)Receiving objects:  22% (6/27)Receiving objects:  25% (7/27)Receiving objects:  29% (8/27)Receiving objects:  33% (9/27)Receiving objects:  37% (10/27)Receiving objects:  40% (11/27)Receiving objects:  44% (12/27)Receiving objects:  48% (13/27)Receiving objects:  51% (14/27)Receiving objects:  55% (15/27)Receiving objects:  59% (16/27)Receiving objects:  62% (17/27)Receiving objects:  66% (18/27)Receiving objects:  70% (19/27)Receiving objects:  74% (20/27)Receiving objects:  77% (21/27)Receiving objects:  81% (22/27)Receiving objects:  85% (23/27)Receiving objects:  88% (24/27)Receiving objects:  92% (25/27)Receiving objects:  96% (26/27)Receiving objects: 100% (27/27)Receiving objects: 100% (27/27), 8.21 KiB | 8.21 MiB/s, done.
+Resolving deltas:   0% (0/7)Resolving deltas:  14% (1/7)Resolving deltas:  28% (2/7)Resolving deltas:  42% (3/7)Resolving deltas:  57% (4/7)Resolving deltas:  71% (5/7)Resolving deltas:  85% (6/7)Resolving deltas: 100% (7/7)Resolving deltas: 100% (7/7), done.
+2023-11-06 23:14:51.973 [info] > git config --get commit.template [2ms]
+2023-11-06 23:14:51.983 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-11-06 23:14:51.998 [info] > git status -z -uall [1ms]

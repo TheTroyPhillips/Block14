@@ -1,0 +1,22 @@
+2023-11-14 15:44:12.268 [info] Extension host with pid 57158 started
+2023-11-14 15:44:12.278 [info] Lock '/home/tphilly/.vscode-server/data/User/workspaceStorage/d033b6fc319ab50bb391adcacb883760/vscode.lock': Lock acquired.
+2023-11-14 15:44:12.331 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-14 15:44:12.338 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-11-14 15:44:12.363 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-14 15:44:12.364 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-14 15:44:12.737 [info] Eager extensions activated
+2023-11-14 15:44:12.738 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-14 15:44:12.739 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-14 15:44:12.740 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2023-11-14 15:44:12.741 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2023-11-14 15:44:12.741 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-11-14 15:44:13.141 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: eamodio.gitlens
+2023-11-14 15:44:13.600 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2023-11-14 15:44:15.069 [warning] [Decorations] CAPPING events from decorations provider vscode.git 19682
+2023-11-14 15:44:16.912 [warning] [Decorations] CAPPING events from decorations provider vscode.git 19682
+2023-11-14 15:44:24.643 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2023-11-14 15:44:31.555 [warning] [Decorations] CAPPING events from decorations provider vscode.git 19682
+2023-11-14 15:46:34.324 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascriptreact'
+2023-11-14 15:46:34.324 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-14 15:49:14.679 [warning] [Decorations] CAPPING events from decorations provider vscode.git 19682
+2023-11-14 15:54:15.389 [warning] [Decorations] CAPPING events from decorations provider vscode.git 19682

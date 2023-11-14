@@ -1,0 +1,13 @@
+2023-11-14 15:37:40.981 [info] Activation> Extension version: 0.76.1
+2023-11-14 15:37:41.983 [info] Looking for git repository
+2023-11-14 15:37:41.983 [info] Found 0 repositories during activation
+2023-11-14 15:37:41.983 [info] Git repository found, initializing review manager and pr tree view.
+2023-11-14 15:37:41.986 [info] Registering git provider
+2023-11-14 15:37:41.986 [info] Review> Validate state in progress
+2023-11-14 15:37:41.986 [info] Review> Validating state...
+2023-11-14 15:37:41.998 [info] Found GitHub remote for folder /home/tphilly/Coursework/troys-puppy-bowl/troyspuppybowl
+2023-11-14 15:37:42.346 [info] Trying to use globalState for assignableUsers.
+2023-11-14 15:37:42.492 [info] No globalState for assignableUsers.
+2023-11-14 15:37:42.520 [info] Repo state for file:///home/tphilly/Coursework/troys-puppy-bowl/troyspuppybowl changed.
+2023-11-14 15:37:42.520 [info] Repo file:///home/tphilly/Coursework/troys-puppy-bowl/troyspuppybowl has already been setup.
+2023-11-14 15:37:42.521 [info] Review> No matching pull request metadata found locally for current branch main

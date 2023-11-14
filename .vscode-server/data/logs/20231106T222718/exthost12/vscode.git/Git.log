@@ -1,0 +1,27 @@
+2023-11-08 13:56:34.431 [info] Log level: Info
+2023-11-08 13:56:34.431 [info] Validating found git in: "git"
+2023-11-08 13:56:34.431 [info] Using git "2.34.1" from "git"
+2023-11-08 13:56:34.431 [info] > git rev-parse --show-toplevel [12ms]
+2023-11-08 13:56:34.431 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-11-08 13:56:34.431 [info] Open repository: /home/tphilly
+2023-11-08 13:56:34.431 [info] > git rev-parse --show-toplevel [15ms]
+2023-11-08 13:56:34.431 [info] > git config --get commit.template [24ms]
+2023-11-08 13:56:34.458 [info] > git rev-parse --show-toplevel [15ms]
+2023-11-08 13:56:34.462 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2023-11-08 13:56:34.510 [info] > git rev-parse --show-toplevel [14ms]
+2023-11-08 13:56:34.541 [info] > git rev-parse --show-toplevel [3ms]
+2023-11-08 13:56:34.842 [info] > git status -z -uall [363ms] (cancelled)
+2023-11-08 13:56:34.975 [info] > git check-ignore -v -z --stdin [38ms]
+2023-11-08 13:56:36.217 [info] > git show --textconv :Coursework/Block26-vite/Block26-vite/src/App.jsx [682ms]
+2023-11-08 13:56:36.235 [info] > git ls-files --stage -- /home/tphilly/Coursework/Block26-vite/Block26-vite/src/App.jsx [685ms]
+2023-11-08 13:56:37.392 [info] > git config --local branch.master.github-pr-owner-number [132ms]
+2023-11-08 13:56:37.403 [info] > git config --get commit.template [2ms]
+2023-11-08 13:56:37.418 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-11-08 13:56:37.571 [info] > git status -z -uall [145ms] (cancelled)
+2023-11-08 13:56:38.908 [info] > git config --get commit.template [104ms]
+2023-11-08 13:56:38.975 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [48ms]
+2023-11-08 13:56:40.487 [info] > git status -z -uall [1493ms] (cancelled)
+2023-11-08 15:45:01.990 [info] > git show --textconv :Coursework/Block26-vite/Block26-vite/src/index.css [9ms]
+2023-11-08 15:45:01.994 [info] > git ls-files --stage -- /home/tphilly/Coursework/Block26-vite/Block26-vite/src/index.css [4ms]
+2023-11-08 15:45:04.388 [info] > git show --textconv :Coursework/Block26-vite/Block26-vite/src/App.jsx [11ms]
+2023-11-08 15:45:04.392 [info] > git ls-files --stage -- /home/tphilly/Coursework/Block26-vite/Block26-vite/src/App.jsx [4ms]

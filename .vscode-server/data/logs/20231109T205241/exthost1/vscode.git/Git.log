@@ -1,0 +1,41 @@
+2023-11-09 20:52:43.972 [info] Log level: Info
+2023-11-09 20:52:43.972 [info] Validating found git in: "git"
+2023-11-09 20:52:43.972 [info] Using git "2.34.1" from "git"
+2023-11-09 20:52:43.972 [info] > git rev-parse --show-toplevel [5ms]
+2023-11-09 20:52:43.972 [info] > git rev-parse --git-dir --git-common-dir [14ms]
+2023-11-09 20:52:43.972 [info] Open repository: /home/tphilly
+2023-11-09 20:52:43.972 [info] > git rev-parse --show-toplevel [10ms]
+2023-11-09 20:52:43.972 [info] > git config --get commit.template [28ms]
+2023-11-09 20:52:43.995 [info] > git rev-parse --show-toplevel [13ms]
+2023-11-09 20:52:44.006 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
+2023-11-09 20:52:45.021 [info] > git check-ignore -v -z --stdin [133ms]
+2023-11-09 20:52:45.188 [info] > git status -z -uall [1174ms] (cancelled)
+2023-11-09 20:52:46.031 [info] > git config --local branch.master.github-pr-owner-number [104ms]
+2023-11-09 20:52:46.045 [info] > git config --get commit.template [8ms]
+2023-11-09 20:52:46.079 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [28ms]
+2023-11-09 20:52:46.222 [info] > git status -z -uall [137ms] (cancelled)
+2023-11-09 20:52:47.897 [info] > git config --get commit.template [58ms]
+2023-11-09 20:52:47.979 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [66ms]
+2023-11-09 20:52:49.686 [info] > git status -z -uall [1693ms] (cancelled)
+2023-11-09 20:55:10.876 [info] > git check-ignore -v -z --stdin [10ms]
+2023-11-09 20:55:28.569 [info] > git check-ignore -v -z --stdin [13ms]
+2023-11-09 20:55:30.135 [info] > git show --textconv :Coursework/guided-practice-27/src/App.jsx [58ms]
+2023-11-09 20:55:30.136 [info] > git ls-files --stage -- /home/tphilly/Coursework/guided-practice-27/src/App.jsx [40ms]
+2023-11-09 20:55:53.899 [info] > git show --textconv :Coursework/guided-practice-27/src/App.css [31ms]
+2023-11-09 20:55:53.900 [info] > git ls-files --stage -- /home/tphilly/Coursework/guided-practice-27/src/App.css [21ms]
+2023-11-09 20:56:05.072 [info] > git show --textconv :Coursework/guided-practice-27/src/main.jsx [12ms]
+2023-11-09 20:56:05.074 [info] > git ls-files --stage -- /home/tphilly/Coursework/guided-practice-27/src/main.jsx [3ms]
+2023-11-09 20:56:05.641 [info] > git show --textconv :Coursework/guided-practice-27/src/index.css [10ms]
+2023-11-09 20:56:05.645 [info] > git ls-files --stage -- /home/tphilly/Coursework/guided-practice-27/src/index.css [4ms]
+2023-11-09 20:56:07.208 [info] > git show --textconv :Coursework/guided-practice-27/src/App.css [11ms]
+2023-11-09 20:56:07.212 [info] > git ls-files --stage -- /home/tphilly/Coursework/guided-practice-27/src/App.css [5ms]
+2023-11-09 20:56:12.215 [info] > git show --textconv :Coursework/guided-practice-27/src/App.jsx [7ms]
+2023-11-09 20:56:12.219 [info] > git ls-files --stage -- /home/tphilly/Coursework/guided-practice-27/src/App.jsx [5ms]
+2023-11-09 21:02:26.840 [info] > git show --textconv :Coursework/guided-practice-27/src/App.css [17ms]
+2023-11-09 21:02:26.845 [info] > git ls-files --stage -- /home/tphilly/Coursework/guided-practice-27/src/App.css [6ms]
+2023-11-09 21:02:37.487 [info] > git show --textconv :Coursework/guided-practice-27/src/App.jsx [13ms]
+2023-11-09 21:02:37.491 [info] > git ls-files --stage -- /home/tphilly/Coursework/guided-practice-27/src/App.jsx [5ms]
+2023-11-09 21:02:43.030 [info] > git show --textconv :Coursework/guided-practice-27/src/index.css [11ms]
+2023-11-09 21:02:43.034 [info] > git ls-files --stage -- /home/tphilly/Coursework/guided-practice-27/src/index.css [4ms]
+2023-11-09 21:02:49.518 [info] > git show --textconv :Coursework/guided-practice-27/src/App.jsx [8ms]
+2023-11-09 21:02:49.521 [info] > git ls-files --stage -- /home/tphilly/Coursework/guided-practice-27/src/App.jsx [4ms]

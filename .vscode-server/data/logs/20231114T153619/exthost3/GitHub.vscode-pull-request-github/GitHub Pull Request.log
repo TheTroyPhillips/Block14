@@ -1,0 +1,13 @@
+2023-11-14 15:39:29.368 [info] Activation> Extension version: 0.76.1
+2023-11-14 15:39:29.805 [info] Looking for git repository
+2023-11-14 15:39:29.805 [info] Found 0 repositories during activation
+2023-11-14 15:39:29.805 [info] Git repository found, initializing review manager and pr tree view.
+2023-11-14 15:39:29.809 [info] Registering git provider
+2023-11-14 15:39:29.809 [info] Review> Validate state in progress
+2023-11-14 15:39:29.809 [info] Review> Validating state...
+2023-11-14 15:39:29.828 [info] Found GitHub remote for folder /home/tphilly
+2023-11-14 15:39:30.207 [info] Trying to use globalState for assignableUsers.
+2023-11-14 15:39:30.495 [info] Using globalState assignableUsers for 1.
+2023-11-14 15:39:31.140 [info] Repo state for file:///home/tphilly changed.
+2023-11-14 15:39:31.140 [info] Repo file:///home/tphilly has already been setup.
+2023-11-14 15:39:32.193 [info] Review> No matching pull request metadata found locally for current branch master

@@ -1,0 +1,18 @@
+2023-11-14 15:39:29.218 [info] Log level: Info
+2023-11-14 15:39:29.218 [info] Validating found git in: "git"
+2023-11-14 15:39:29.218 [info] Using git "2.34.1" from "git"
+2023-11-14 15:39:29.218 [info] > git rev-parse --show-toplevel [485ms]
+2023-11-14 15:39:29.218 [info] > git rev-parse --git-dir --git-common-dir [118ms]
+2023-11-14 15:39:29.218 [info] Open repository: /home/tphilly
+2023-11-14 15:39:29.220 [info] > git rev-parse --show-toplevel [9ms]
+2023-11-14 15:39:29.223 [info] > git config --get commit.template [17ms]
+2023-11-14 15:39:29.327 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [85ms]
+2023-11-14 15:39:29.680 [info] > git show --textconv :Coursework/Block23/script.js [62ms]
+2023-11-14 15:39:29.680 [info] > git ls-files --stage -- /home/tphilly/Coursework/Block23/script.js [51ms]
+2023-11-14 15:39:29.692 [info] > git cat-file -s 1069a85be63b461b05c5206eda1f32f02e789250 [5ms]
+2023-11-14 15:39:29.703 [info] > git status -z -uall [369ms] (cancelled)
+2023-11-14 15:39:29.815 [info] > git check-ignore -v -z --stdin [20ms]
+2023-11-14 15:39:30.335 [info] > git config --local branch.master.github-pr-owner-number [116ms]
+2023-11-14 15:39:30.353 [info] > git config --get commit.template [10ms]
+2023-11-14 15:39:30.354 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-14 15:39:30.528 [info] > git status -z -uall [164ms] (cancelled)

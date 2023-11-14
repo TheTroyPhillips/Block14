@@ -1,0 +1,16 @@
+2023-11-07 20:34:36.205 [info] Log level: Info
+2023-11-07 20:34:36.205 [info] Validating found git in: "git"
+2023-11-07 20:34:36.205 [info] Using git "2.34.1" from "git"
+2023-11-07 20:34:36.205 [info] > git rev-parse --show-toplevel [1244ms]
+2023-11-07 20:34:36.205 [info] > git rev-parse --git-dir --git-common-dir [22ms]
+2023-11-07 20:34:36.205 [info] Open repository: /home/tphilly
+2023-11-07 20:34:36.205 [info] > git rev-parse --show-toplevel [55ms]
+2023-11-07 20:34:36.205 [info] > git config --get commit.template [68ms]
+2023-11-07 20:34:36.294 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [71ms]
+2023-11-07 20:34:37.073 [info] > git config --local branch.master.github-pr-owner-number [127ms]
+2023-11-07 20:34:37.095 [info] > git status -z -uall [795ms] (cancelled)
+2023-11-07 20:34:37.097 [info] > git config --get commit.template [4ms]
+2023-11-07 20:34:37.097 [info] > git config --get commit.template [12ms]
+2023-11-07 20:34:37.118 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+2023-11-07 20:34:37.166 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [49ms]
+2023-11-07 20:34:37.311 [info] > git status -z -uall [136ms] (cancelled)

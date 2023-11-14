@@ -1,3 +1,5 @@
 [user]
 	name = tphilly
 	email = troy.phillips44@gmail.com
+[init]
+	defaultbranch = main

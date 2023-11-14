@@ -1,0 +1,35 @@
+2023-11-06 23:07:43.872 [info] Activation> Extension version: 0.76.0
+2023-11-06 23:07:45.608 [info] Looking for git repository
+2023-11-06 23:07:45.608 [info] Found 0 repositories during activation
+2023-11-06 23:07:45.608 [info] Git repository found, initializing review manager and pr tree view.
+2023-11-06 23:07:45.610 [info] Registering git provider
+2023-11-06 23:07:45.929 [info] Repo state for file:///home/tphilly changed.
+2023-11-06 23:07:45.929 [info] Repo file:///home/tphilly has already been setup.
+2023-11-06 23:07:46.985 [info] Repository file:///home/tphilly/Coursework/Troy-Phillips-Personal-Website has been opened
+2023-11-06 23:07:46.985 [info] Repo file:///home/tphilly/Coursework/Troy-Phillips-Personal-Website has already been setup.
+2023-11-06 23:07:47.107 [info] Repository file:///home/tphilly/Coursework/Troy-Phillps-personal-website-new has been opened
+2023-11-06 23:07:47.107 [info] Repo file:///home/tphilly/Coursework/Troy-Phillps-personal-website-new has already been setup.
+2023-11-06 23:07:47.298 [info] Repo state for file:///home/tphilly/Coursework/Troy-Phillips-Personal-Website changed.
+2023-11-06 23:07:47.298 [info] Repo file:///home/tphilly/Coursework/Troy-Phillips-Personal-Website has already been setup.
+2023-11-06 23:07:47.328 [info] Repository file:///home/tphilly/Coursework/Unit2.PartyLogs.Starter has been opened
+2023-11-06 23:07:47.328 [info] Repo file:///home/tphilly/Coursework/Unit2.PartyLogs.Starter has already been setup.
+2023-11-06 23:07:47.454 [info] Repo state for file:///home/tphilly/Coursework/Troy-Phillps-personal-website-new changed.
+2023-11-06 23:07:47.454 [info] Repo file:///home/tphilly/Coursework/Troy-Phillps-personal-website-new has already been setup.
+2023-11-06 23:07:47.640 [info] Repo state for file:///home/tphilly/Coursework/Unit2.PartyLogs.Starter changed.
+2023-11-06 23:07:47.640 [info] Repo file:///home/tphilly/Coursework/Unit2.PartyLogs.Starter has already been setup.
+2023-11-06 23:07:47.748 [info] Repository file:///home/tphilly/Coursework/puppy-bowl has been opened
+2023-11-06 23:07:47.748 [info] Repo file:///home/tphilly/Coursework/puppy-bowl has already been setup.
+2023-11-06 23:07:47.872 [info] Repo state for file:///home/tphilly/Coursework/puppy-bowl changed.
+2023-11-06 23:07:47.872 [info] Repo file:///home/tphilly/Coursework/puppy-bowl has already been setup.
+2023-11-06 23:07:47.912 [info] Repository file:///home/tphilly/Coursework/vite-project has been opened
+2023-11-06 23:07:47.912 [info] Repo file:///home/tphilly/Coursework/vite-project has already been setup.
+2023-11-06 23:07:47.937 [info] Git initialization state changed: state=initialized
+2023-11-06 23:07:47.937 [info] Review> Validate state in progress
+2023-11-06 23:07:47.937 [info] Review> Validating state...
+2023-11-06 23:07:47.975 [info] Found GitHub remote for folder /home/tphilly
+2023-11-06 23:07:48.164 [info] Repo state for file:///home/tphilly/Coursework/vite-project changed.
+2023-11-06 23:07:48.164 [info] Repo file:///home/tphilly/Coursework/vite-project has already been setup.
+2023-11-06 23:07:48.355 [info] Trying to use globalState for assignableUsers.
+2023-11-06 23:07:48.521 [info] Using globalState assignableUsers for 1.
+2023-11-06 23:07:48.869 [info] Review> No matching pull request metadata found locally for current branch master
+2023-11-06 23:07:50.053 [info] Review> No matching pull request metadata found on GitHub for current branch master

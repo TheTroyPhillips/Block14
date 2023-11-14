@@ -1,0 +1,17 @@
+2023-11-14 15:36:01.414 [info] Log level: Info
+2023-11-14 15:36:01.414 [info] Validating found git in: "git"
+2023-11-14 15:36:01.414 [info] Using git "2.34.1" from "git"
+2023-11-14 15:36:01.414 [info] > git rev-parse --show-toplevel [799ms]
+2023-11-14 15:36:01.414 [info] > git rev-parse --git-dir --git-common-dir [301ms]
+2023-11-14 15:36:01.414 [info] Open repository: /home/tphilly
+2023-11-14 15:36:01.520 [info] > git rev-parse --show-toplevel [117ms]
+2023-11-14 15:36:01.520 [info] > git config --get commit.template [145ms]
+2023-11-14 15:36:01.585 [info] > git rev-parse --show-toplevel [52ms]
+2023-11-14 15:36:01.660 [info] > git rev-parse --git-dir --git-common-dir [15ms]
+2023-11-14 15:36:01.664 [info] Open repository: /home/tphilly/Coursework/troys-puppy-bowl/troyspuppybowl
+2023-11-14 15:36:01.667 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [89ms]
+2023-11-14 15:36:01.740 [info] > git rev-parse --show-toplevel [9ms]
+2023-11-14 15:36:01.740 [info] > git config --get commit.template [18ms]
+2023-11-14 15:36:01.810 [info] > git rev-parse --show-toplevel [17ms]
+2023-11-14 15:36:01.911 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [105ms]
+2023-11-14 15:36:01.984 [info] > git status -z -uall [64ms]

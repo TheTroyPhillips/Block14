@@ -1,0 +1,19 @@
+2023-11-08 13:55:28.304 [info] Activation> Extension version: 0.76.0
+2023-11-08 13:55:28.628 [info] Looking for git repository
+2023-11-08 13:55:28.629 [info] Found 0 repositories during activation
+2023-11-08 13:55:28.629 [info] Git repository found, initializing review manager and pr tree view.
+2023-11-08 13:55:28.634 [info] Registering git provider
+2023-11-08 13:55:28.634 [info] Review> Validate state in progress
+2023-11-08 13:55:28.634 [info] Review> Validating state...
+2023-11-08 13:55:28.665 [info] Found GitHub remote for folder /home/tphilly
+2023-11-08 13:55:29.031 [info] Trying to use globalState for assignableUsers.
+2023-11-08 13:55:29.225 [info] Using globalState assignableUsers for 1.
+2023-11-08 13:55:29.850 [info] Repo state for file:///home/tphilly changed.
+2023-11-08 13:55:29.850 [info] Repo file:///home/tphilly has already been setup.
+2023-11-08 13:57:28.632 [error] Review> Timeout occurred while validating state.
+2023-11-08 13:59:04.613 [info] Review> No matching pull request metadata found locally for current branch master
+2023-11-08 13:59:05.894 [info] Review> No matching pull request metadata found on GitHub for current branch master
+2023-11-08 13:59:13.864 [info] Repository file:///home/tphilly/Coursework/block26-contact-list has been opened
+2023-11-08 13:59:13.864 [info] Repo file:///home/tphilly/Coursework/block26-contact-list has already been setup.
+2023-11-08 13:59:13.903 [info] Repo state for file:///home/tphilly/Coursework/block26-contact-list changed.
+2023-11-08 13:59:13.903 [info] Repo file:///home/tphilly/Coursework/block26-contact-list has already been setup.

@@ -1,0 +1,98 @@
+2023-11-06 22:27:18.414 [info] 
+
+
+
+
+2023-11-06 22:27:18.430 [info] Extension host agent started.
+2023-11-06 22:27:18.555 [info] Deleted uninstalled extension from disk github.vscode-pull-request-github /home/tphilly/.vscode-server/extensions/github.vscode-pull-request-github-0.74.1
+2023-11-06 22:27:18.556 [info] Deleted uninstalled extension from disk ms-python.python /home/tphilly/.vscode-server/extensions/ms-python.python-2023.18.0
+2023-11-06 22:27:18.594 [info] [127.0.0.1][c9032629][ManagementConnection] New connection established.
+2023-11-06 22:27:19.693 [info] [127.0.0.1][d95df854][ExtensionHostConnection] New connection established.
+2023-11-06 22:27:21.026 [info] [127.0.0.1][d95df854][ExtensionHostConnection] <1461> Launched Extension Host Process.
+2023-11-06 22:27:24.560 [info] Getting Manifest... ms-python.vscode-pylance
+2023-11-06 22:27:24.827 [info] Installing extension: ms-python.vscode-pylance
+2023-11-06 22:27:25.657 [info] Getting Manifest... ms-python.python
+2023-11-06 22:27:28.028 [warning] Extension signature verification failed with error 'ENOENT': ms-python.vscode-pylance
+2023-11-06 22:27:33.345 [info] Extracted extension to file:///home/tphilly/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10: ms-python.vscode-pylance
+2023-11-06 22:27:33.358 [info] Renamed to /home/tphilly/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10
+2023-11-06 22:27:33.361 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-11-06 22:27:33.370 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-11-06 22:27:33.376 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.10.50
+2023-11-06 22:27:54.266 [info] [127.0.0.1][b5367ee8][ManagementConnection] New connection established.
+2023-11-06 22:27:54.562 [info] [127.0.0.1][9a73174f][ExtensionHostConnection] New connection established.
+2023-11-06 22:27:54.575 [info] [127.0.0.1][9a73174f][ExtensionHostConnection] <2180> Launched Extension Host Process.
+2023-11-06 23:05:52.863 [info] [127.0.0.1][b5367ee8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-06 23:05:53.070 [info] [127.0.0.1][9a73174f][ExtensionHostConnection] <2180> Extension Host Process exited with code: 0, signal: null.
+2023-11-06 23:07:41.137 [info] [127.0.0.1][53142bd6][ManagementConnection] New connection established.
+2023-11-06 23:07:41.520 [info] [127.0.0.1][1873cb4a][ExtensionHostConnection] New connection established.
+2023-11-06 23:07:41.531 [info] [127.0.0.1][1873cb4a][ExtensionHostConnection] <17420> Launched Extension Host Process.
+2023-11-06 23:14:52.221 [info] [127.0.0.1][53142bd6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-06 23:14:52.394 [info] [127.0.0.1][1873cb4a][ExtensionHostConnection] <17420> Extension Host Process exited with code: 0, signal: null.
+2023-11-06 23:14:53.557 [info] [127.0.0.1][3eaa74fe][ManagementConnection] New connection established.
+2023-11-06 23:14:54.423 [info] [127.0.0.1][3e6409b4][ExtensionHostConnection] New connection established.
+2023-11-06 23:14:54.443 [info] [127.0.0.1][3e6409b4][ExtensionHostConnection] <20695> Launched Extension Host Process.
+2023-11-06 23:49:06.127 [info] [127.0.0.1][c9032629][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-06 23:49:06.390 [info] [127.0.0.1][d95df854][ExtensionHostConnection] <1461> Extension Host Process exited with code: 0, signal: null.
+2023-11-07 02:21:34.463 [warning] No ptyHost heartbeat after 6 seconds
+2023-11-07 03:07:00.869 [info] [127.0.0.1][3e6409b4][ExtensionHostConnection] The client has reconnected.
+2023-11-07 03:07:01.276 [info] [127.0.0.1][3eaa74fe][ManagementConnection] The client has reconnected.
+2023-11-07 03:39:32.453 [warning] No ptyHost heartbeat after 6 seconds
+2023-11-07 17:00:50.436 [info] [127.0.0.1][3e6409b4][ExtensionHostConnection] The client has reconnected.
+2023-11-07 17:01:18.258 [info] [127.0.0.1][3eaa74fe][ManagementConnection] The client has reconnected.
+2023-11-07 17:04:50.890 [info] [127.0.0.1][cb92a737][ManagementConnection] New connection established.
+2023-11-07 17:04:51.682 [info] [127.0.0.1][031c22cb][ExtensionHostConnection] New connection established.
+2023-11-07 17:04:51.712 [info] [127.0.0.1][031c22cb][ExtensionHostConnection] <63001> Launched Extension Host Process.
+2023-11-07 17:05:30.825 [info] [127.0.0.1][cb92a737][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-07 17:05:31.018 [info] [127.0.0.1][031c22cb][ExtensionHostConnection] <63001> Extension Host Process exited with code: 0, signal: null.
+2023-11-07 17:05:32.186 [info] [127.0.0.1][2925c7ee][ManagementConnection] New connection established.
+2023-11-07 17:05:32.988 [info] [127.0.0.1][ab0cfe98][ExtensionHostConnection] New connection established.
+2023-11-07 17:05:33.001 [info] [127.0.0.1][ab0cfe98][ExtensionHostConnection] <63393> Launched Extension Host Process.
+2023-11-07 17:56:31.110 [info] [127.0.0.1][a0190b03][ManagementConnection] New connection established.
+2023-11-07 17:56:31.820 [info] [127.0.0.1][31b50a97][ExtensionHostConnection] New connection established.
+2023-11-07 17:56:31.849 [info] [127.0.0.1][31b50a97][ExtensionHostConnection] <78893> Launched Extension Host Process.
+2023-11-07 18:10:13.308 [info] [127.0.0.1][a0190b03][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-07 18:10:13.500 [info] [127.0.0.1][31b50a97][ExtensionHostConnection] <78893> Extension Host Process exited with code: 0, signal: null.
+2023-11-07 20:34:32.800 [info] [127.0.0.1][22e9f95d][ManagementConnection] New connection established.
+2023-11-07 20:34:33.455 [info] [127.0.0.1][0640f219][ExtensionHostConnection] New connection established.
+2023-11-07 20:34:33.464 [info] [127.0.0.1][0640f219][ExtensionHostConnection] <111505> Launched Extension Host Process.
+2023-11-07 20:34:52.341 [info] [127.0.0.1][22e9f95d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-07 20:34:52.434 [info] [127.0.0.1][0640f219][ExtensionHostConnection] <111505> Extension Host Process exited with code: 0, signal: null.
+2023-11-07 20:37:00.102 [info] [127.0.0.1][e61ac1c8][ManagementConnection] New connection established.
+2023-11-07 20:37:01.011 [info] [127.0.0.1][8b3637d0][ExtensionHostConnection] New connection established.
+2023-11-07 20:37:01.056 [info] [127.0.0.1][8b3637d0][ExtensionHostConnection] <112292> Launched Extension Host Process.
+2023-11-07 20:56:24.626 [info] [127.0.0.1][b97961d7][ManagementConnection] New connection established.
+2023-11-07 20:56:25.480 [info] [127.0.0.1][b9c78843][ExtensionHostConnection] New connection established.
+2023-11-07 20:56:25.493 [info] [127.0.0.1][b9c78843][ExtensionHostConnection] <121060> Launched Extension Host Process.
+2023-11-07 20:56:53.791 [info] [127.0.0.1][b97961d7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-07 20:56:53.905 [info] [127.0.0.1][b9c78843][ExtensionHostConnection] <121060> Extension Host Process exited with code: 0, signal: null.
+2023-11-07 22:11:10.728 [warning] No ptyHost heartbeat after 6 seconds
+2023-11-07 22:19:04.938 [info] [127.0.0.1][8b3637d0][ExtensionHostConnection] The client has reconnected.
+2023-11-07 22:19:05.538 [info] [127.0.0.1][ab0cfe98][ExtensionHostConnection] The client has reconnected.
+2023-11-07 22:19:05.913 [info] [127.0.0.1][3eaa74fe][ManagementConnection] The client has reconnected.
+2023-11-07 22:19:06.469 [info] [127.0.0.1][e61ac1c8][ManagementConnection] The client has reconnected.
+2023-11-07 22:19:06.885 [info] [127.0.0.1][2925c7ee][ManagementConnection] The client has reconnected.
+2023-11-07 22:19:07.186 [info] [127.0.0.1][3e6409b4][ExtensionHostConnection] The client has reconnected.
+2023-11-08 13:47:18.131 [info] [127.0.0.1][2925c7ee][ManagementConnection] The client has reconnected.
+2023-11-08 13:47:41.165 [info] [127.0.0.1][ab0cfe98][ExtensionHostConnection] The client has reconnected.
+2023-11-08 13:52:19.904 [info] [127.0.0.1][3e6409b4][ExtensionHostConnection] <20695> Extension Host Process exited with code: 0, signal: null.
+2023-11-08 13:52:20.137 [info] [127.0.0.1][8b3637d0][ExtensionHostConnection] <112292> Extension Host Process exited with code: 0, signal: null.
+2023-11-08 13:55:15.804 [info] [127.0.0.1][2925c7ee][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-08 13:55:16.106 [info] [127.0.0.1][ab0cfe98][ExtensionHostConnection] <63393> Extension Host Process exited with code: 0, signal: null.
+2023-11-08 13:55:24.236 [info] [127.0.0.1][6fe19f7a][ManagementConnection] New connection established.
+2023-11-08 13:55:25.161 [info] [127.0.0.1][1dfe8dd0][ExtensionHostConnection] New connection established.
+2023-11-08 13:55:25.245 [info] [127.0.0.1][1dfe8dd0][ExtensionHostConnection] <202824> Launched Extension Host Process.
+2023-11-08 13:55:28.287 [info] Getting Manifest... github.vscode-pull-request-github
+2023-11-08 13:55:28.516 [info] Installing extension: github.vscode-pull-request-github
+2023-11-08 13:55:29.825 [warning] Extension signature verification failed with error 'ENOENT': github.vscode-pull-request-github
+2023-11-08 13:55:29.961 [info] Extracted extension to file:///home/tphilly/.vscode-server/extensions/github.vscode-pull-request-github-0.76.1: github.vscode-pull-request-github
+2023-11-08 13:55:29.968 [info] Renamed to /home/tphilly/.vscode-server/extensions/github.vscode-pull-request-github-0.76.1
+2023-11-08 13:55:29.971 [info] Extracting extension completed. github.vscode-pull-request-github
+2023-11-08 13:55:29.977 [info] Extension installed successfully: github.vscode-pull-request-github
+2023-11-08 13:55:29.987 [info] Marked extension as uninstalled github.vscode-pull-request-github-0.76.0
+2023-11-08 13:56:32.203 [info] [127.0.0.1][0b8ada68][ManagementConnection] New connection established.
+2023-11-08 13:56:32.484 [info] [127.0.0.1][c9f0fed7][ExtensionHostConnection] New connection established.
+2023-11-08 13:56:32.497 [info] [127.0.0.1][c9f0fed7][ExtensionHostConnection] <203312> Launched Extension Host Process.
+2023-11-08 15:55:31.123 [info] [127.0.0.1][6fe19f7a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-08 15:55:31.398 [info] [127.0.0.1][1dfe8dd0][ExtensionHostConnection] <202824> Extension Host Process exited with code: 0, signal: null.
+2023-11-08 15:55:45.867 [info] [127.0.0.1][0b8ada68][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-08 15:55:46.114 [info] [127.0.0.1][c9f0fed7][ExtensionHostConnection] <203312> Extension Host Process exited with code: 0, signal: null.

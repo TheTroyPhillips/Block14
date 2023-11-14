@@ -1,0 +1,26 @@
+2023-11-06 22:27:58.670 [info] Activation> Extension version: 0.76.0
+2023-11-06 22:27:58.935 [info] Looking for git repository
+2023-11-06 22:27:58.935 [info] Found 0 repositories during activation
+2023-11-06 22:27:58.935 [info] Git repository found, initializing review manager and pr tree view.
+2023-11-06 22:27:58.940 [info] Registering git provider
+2023-11-06 22:27:58.940 [info] Review> Validate state in progress
+2023-11-06 22:27:58.940 [info] Review> Validating state...
+2023-11-06 22:27:58.958 [info] Found GitHub remote for folder /home/tphilly/Coursework/puppy-bowl
+2023-11-06 22:27:59.356 [info] Trying to use globalState for assignableUsers.
+2023-11-06 22:27:59.510 [info] Using globalState assignableUsers for 1.
+2023-11-06 22:27:59.543 [info] Repo state for file:///home/tphilly/Coursework/puppy-bowl changed.
+2023-11-06 22:27:59.543 [info] Repo file:///home/tphilly/Coursework/puppy-bowl has already been setup.
+2023-11-06 22:27:59.545 [info] Review> Found matching pull request metadata for current branch main. Repo: Troy-Phillips-Puppy-Bowl/puppy-bowl PR: 1
+2023-11-06 22:27:59.545 [info] Review> current branch main is associated with pull request #1
+2023-11-06 22:27:59.545 [info] Review> Resolving pull request
+2023-11-06 22:28:00.314 [info] Review> Resolved PR #1, state is 1
+2023-11-06 22:28:00.737 [info] Found matching pull request metadata on GitHub for current branch main. Repo: Troy-Phillips-Puppy-Bowl/puppy-bowl PR: 1
+2023-11-06 22:28:00.737 [info] PullRequestGitHelper> associate main with Pull Request #1
+2023-11-06 22:28:00.773 [info] Review> Fetching pull request data
+2023-11-06 22:28:00.773 [info] PullRequestTree> Adding PR #1 to tree
+2023-11-06 22:28:00.817 [info] Review> Register comments provider
+2023-11-06 22:28:00.818 [info] Review> Register in memory content provider
+2023-11-06 22:28:01.621 [info] Review> Display pull request status bar indicator.
+2023-11-06 22:28:01.621 [info] Review> Using focus mode = true.
+2023-11-06 22:28:01.621 [info] Review> State validation silent = true.
+2023-11-06 22:28:01.621 [info] Review> PR show should show = false.
