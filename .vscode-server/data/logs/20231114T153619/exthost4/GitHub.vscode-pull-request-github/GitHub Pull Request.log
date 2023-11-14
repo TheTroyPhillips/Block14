@@ -48,3 +48,16 @@
 2023-11-14 16:45:43.613 [info] Using in-memory cached assignable users.
 2023-11-14 16:45:43.708 [info] Review> No matching pull request metadata found locally for current branch master
 2023-11-14 16:45:44.069 [info] Review> No matching pull request metadata found on GitHub for current branch master
+2023-11-14 16:46:38.707 [info] Review> Validate state in progress
+2023-11-14 16:46:38.707 [info] Review> Validating state...
+2023-11-14 16:46:38.889 [info] Found GitHub remote for folder /home/tphilly
+2023-11-14 16:46:38.890 [info] Using in-memory cached assignable users.
+2023-11-14 16:46:39.082 [info] Review> No matching pull request metadata found locally for current branch master
+2023-11-14 16:46:39.407 [info] Review> No matching pull request metadata found on GitHub for current branch master
+2023-11-14 16:46:39.804 [info] Review> Validate state in progress
+2023-11-14 16:46:39.804 [info] Review> Validating state...
+2023-11-14 16:46:39.912 [info] Found GitHub remote for folder /home/tphilly
+2023-11-14 16:46:39.965 [info] Using in-memory cached assignable users.
+2023-11-14 16:46:40.153 [info] Review> No matching pull request metadata found locally for current branch master
+2023-11-14 16:46:40.924 [info] CreatePullRequestViewProvider> Initializing "create" view: {"defaultBaseRemote":{"owner":"TheTroyPhillips","repositoryName":"tphilly"},"defaultBaseBranch":"master","defaultCompareRemote":{"owner":"TheTroyPhillips","repositoryName":"tphilly"},"defaultCompareBranch":"master","defaultTitle":"Master","defaultDescription":"","defaultMergeMethod":"merge","remoteCount":1,"allowAutoMerge":false,"mergeMethodsAvailability":{"merge":true,"squash":true,"rebase":true},"autoMergeDefault":false,"createError":"","labels":[],"isDraftDefault":false,"isDarkTheme":true,"creating":false}
+2023-11-14 16:46:41.402 [info] Review> No matching pull request metadata found on GitHub for current branch master
