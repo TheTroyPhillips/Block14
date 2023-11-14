@@ -179,3 +179,7 @@
 2023-11-14 16:41:25.037 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
 2023-11-14 16:41:25.055 [info] > git status -z -uall [1ms]
 2023-11-14 16:41:27.029 [info] > git show --textconv a2cc9d493fbccc2e4e4d274bdeb6ab73584050d9:index.html [51ms]
+2023-11-14 16:46:25.029 [info] > git config --local branch.main.github-pr-owner-number [0ms]
+2023-11-14 16:46:25.046 [info] > git config --get commit.template [9ms]
+2023-11-14 16:46:25.046 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-11-14 16:46:25.058 [info] > git status -z -uall [1ms]

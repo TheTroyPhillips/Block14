@@ -42,3 +42,9 @@
 2023-11-14 16:45:10.291 [info] Using in-memory cached assignable users.
 2023-11-14 16:45:10.494 [info] Review> No matching pull request metadata found locally for current branch master
 2023-11-14 16:45:10.814 [info] Review> No matching pull request metadata found on GitHub for current branch master
+2023-11-14 16:45:43.447 [info] Review> Validate state in progress
+2023-11-14 16:45:43.447 [info] Review> Validating state...
+2023-11-14 16:45:43.612 [info] Found GitHub remote for folder /home/tphilly
+2023-11-14 16:45:43.613 [info] Using in-memory cached assignable users.
+2023-11-14 16:45:43.708 [info] Review> No matching pull request metadata found locally for current branch master
+2023-11-14 16:45:44.069 [info] Review> No matching pull request metadata found on GitHub for current branch master
