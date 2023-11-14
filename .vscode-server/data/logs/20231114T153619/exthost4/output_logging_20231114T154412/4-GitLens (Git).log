@@ -1,0 +1,6 @@
+[2023-11-14 21:28:05.312] [      7ms] [/home/tphilly/.git] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: this operation must be run in a work tree
+
+

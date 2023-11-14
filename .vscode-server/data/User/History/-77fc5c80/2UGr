@@ -1,0 +1,23 @@
+new commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is ahead of 'origin/master' by 3 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   .vscode-server/data/logs/20231114T153619/exthost1/vscode.git/Git.log
+#	modified:   .vscode-server/data/logs/20231114T153619/exthost4/GitHub.vscode-pull-request-github/GitHub Pull Request.log
+#	modified:   .vscode-server/data/logs/20231114T153619/exthost4/vscode.git/Git.log
+#
+# Changes not staged for commit:
+#	modified:   .vscode-server/data/logs/20231114T153619/exthost4/vscode.git/Git.log
+#	modified:   Coursework/Block27app (modified content, untracked content)
+#	modified:   Coursework/Coffee-menu/coffeedata (untracked content)
+#	modified:   Coursework/Troy-Phillps-personal-website-new (modified content, untracked content)
+#	modified:   Coursework/Unit2.PartyLogs.Starter (modified content)
+#	modified:   Coursework/block26-contact-list (modified content, untracked content)
+#	modified:   Coursework/puppy-bowl (modified content, untracked content)
+#	modified:   Coursework/vite-project (modified content, untracked content)
+#
